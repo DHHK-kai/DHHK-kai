@@ -285,8 +285,6 @@ hosyusokuhou.jp$$p[wildcard="*不適切な用語*禁止*スパム*禁止ワー�
 hosyusokuhou.jp$$div[class="aban"]
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ SNS
-!------------ Facebook
-##iframe[src*="//www.facebook.com/plugins/page.php"]
 !------------ LINE
 ||biz.line.naver.jp/line_business/img/btn/*.*$image
 ||timeline.line.me/social-plugin-widget/*$subdocument
@@ -302,13 +300,6 @@ www.instagram.com##._28zbs
 m.imgur.com##.App-topSidebar
 m.imgur.com##.FloatingOIA-container
 m.imgur.com##.AppBanner
-!－－－－－－－－－－ シェアボタン
-!	280に収容されていない。なにか不具合が発生する？
-~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~line.me$$a[href="line.me/R/ti/p/%40"]
-!	根本的には、これはシェアリンクではなくソーシャルブックマークリンクなのが原因。ソーシャルブックマーク先でシェア（ブックマーク）する手順を踏むため、リンクのみで判断するのが悪手となってしまう。なんでこのリンクが使われているんだろう？ 以前「image内包に限定すべき」として解除し「##a[href*="b.hatena.ne.jp/entry"] img」と改善されましたがこれでも漏れてしまう。一例 https://seolaboratory.jp/ 。target="_blank"で判断するとソーシャルブックマークリンクとしても使われかねなく困難なので、title=を使うのが妥当かな？ ここではかなりきつめに絞ってますが「シェア」だけでも良さそう
-~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~hatena.ne.jp$$a[href="//b.hatena.ne.jp/entry/"][title="はてなブックマークでシェアする"]
-!	このリンクはSNSシェアボタンを邪魔に思う人にとっては相当厄介…。たぶんこの指定では誤爆の可能性が残ります。使用されていたのは https://bijutsutecho.com/ 。なんでaddを使わないんだろう？
-~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~hatena.ne.jp$$a[href="//b.hatena.ne.jp/entry/"][tag-content="icon-hatebu"]
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ 掲示板
 !------------ 爆サイ.com -日本最大級のﾛｰｶﾙｺﾐｭﾆﾃｨ掲示板 http://bakusai.com/
@@ -1491,3 +1482,16 @@ www.cyberagent.co.jp##.sc_category
 www.cyberagent.co.jp##.sc_icons
 www.cyberagent.co.jp##.back_issues
 !■■■■■■■■■■■■■
+
+
+
+!------------ Facebook
+##iframe[src*="//www.facebook.com/plugins/page.php"]
+!－－－－－－－－－－ シェアボタン
+!	280に収容されていない。なにか不具合が発生する？
+~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~line.me$$a[href="line.me/R/ti/p/%40"]
+!	根本的には、これはシェアリンクではなくソーシャルブックマークリンクなのが原因。ソーシャルブックマーク先でシェア（ブックマーク）する手順を踏むため、リンクのみで判断するのが悪手となってしまう。なんでこのリンクが使われているんだろう？ 以前「image内包に限定すべき」として解除し「##a[href*="b.hatena.ne.jp/entry"] img」と改善されましたがこれでも漏れてしまう。一例 https://seolaboratory.jp/ 。target="_blank"で判断するとソーシャルブックマークリンクとしても使われかねなく困難なので、title=を使うのが妥当かな？ ここではかなりきつめに絞ってますが「シェア」だけでも良さそう
+~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~hatena.ne.jp$$a[href="//b.hatena.ne.jp/entry/"][title="はてなブックマークでシェアする"]
+!	このリンクはSNSシェアボタンを邪魔に思う人にとっては相当厄介…。たぶんこの指定では誤爆の可能性が残ります。使用されていたのは https://bijutsutecho.com/ 。なんでaddを使わないんだろう？
+~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~hatena.ne.jp$$a[href="//b.hatena.ne.jp/entry/"][tag-content="icon-hatebu"]
+
