@@ -245,7 +245,7 @@ ka-soku.com,www.tomabechi.jp,himasoku.com,hosyusokuhou.jp,yurukuyaru.com,www.akb
 !------------ IT速報 http://blog.livedoor.jp/itsoku/
 blog.livedoor.jp$$div[class="amazlet-box"][tag-content="/itsoku-22/"]
 !------------ 軍事・ミリタリー速報☆彡 http://blog.livedoor.jp/corez18c24-mili777/
-blog.livedoor.jp$$span[wildcard="*<span*このブログの人気記事*"][tag-content="blog.livedoor.jp/corez18c24-mili777/"]
+blog.livedoor.jp$$span[wildcard="*<span*このブログの人気記事*"][tag-content="/blog.livedoor.jp/corez18c24-mili777/"]
 blog.livedoor.jp$$section[id="menubar"][tag-content="//blog.livedoor.jp/corez18c24-mili777/"]
 !------------ カイカイ反応通信 http://blog.livedoor.jp/kaikaihanno/
 blog.livedoor.jp$$section[id="menubar"][tag-content="//blog.livedoor.jp/kaikaihanno/"]
