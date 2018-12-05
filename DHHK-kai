@@ -239,12 +239,12 @@ blog.livedoor.jp$$aside[class="section-box"][wildcard="*<div*class=*plugin-free_
 blog.livedoor.jp$$aside[class="section-box"][wildcard="*コメント注意事項*カイカイ反応通信管理人*"]
 blog.livedoor.jp$$section[id="menubar"][tag-content="//blog.livedoor.jp/kaikaihanno/"]
 !------------ 軍事系まとめブログ http://gunji.blog.jp/
-||parts.blog.livedoor.jp/img/lite2/arrow_next.png$image
-||livedoor.blogimg.jp/oy1982/imgs/d/b/db66cf85.png$image
+||parts.blog.livedoor.jp/img/lite2/arrow_next.png$image,domain=gunji.blog.jp
+||livedoor.blogimg.jp/oy1982/imgs/d/b/db66cf85.png$image,domain=gunji.blog.jp
 gunji.blog.jp$$a[href="//message.blogcms.jp/livedoor/oy1982/lite/input"][parent-elements="section"]
 gunji.blog.jp$$h2[tag-content="軍事関連書籍　書評・紹介コーナー"][parent-elements="aside"]
 !------------ 【韓国の反応】みずきの女子知韓宣言（´∀｀*) http://oboega-01.blog.jp/
-||parts.blog.livedoor.jp/img/lite2/usr/sakura2014/bg.png$image
+||parts.blog.livedoor.jp/img/lite2/usr/sakura2014/bg.png$image,domain=oboega-01.blog.jp
 !------------ 市況かぶ全力２階建 http://kabumatome.doorblog.jp/
 kabumatome.doorblog.jp$$script[src="//kabumatome.doorblog.jp/settings/lite2/ads.js"]
 kabumatome.doorblog.jp$$script[tag-content="//kabumatome.doorblog.jp/_/json/ranking_category_"]
@@ -252,29 +252,29 @@ kabumatome.doorblog.jp$$script[tag-content="//kabumatome.doorblog.jp/_/json/line
 !------------ (*ﾟ∀ﾟ)ゞカガクニュース隊 http://www.scienceplus2ch.com/
 www.scienceplus2ch.com###article-contents a[href*=//goo.gl/"]
 !------------ カラパイア http://karapaia.com/
-||parts.blog.livedoor.jp/img/lite2/usr/authors_store/bg_header.jpg$image
-||parts.blog.livedoor.jp/img/lite2/usr/authors_store/bg_body.jpg$image
-||livedoor.4.blogimg.jp/karapaia_zaeega/imgs/f/f/ff9470e2.gif$image
+||parts.blog.livedoor.jp/img/lite2/usr/authors_store/bg_header.jpg$image,domain=karapaia.com
+||parts.blog.livedoor.jp/img/lite2/usr/authors_store/bg_body.jpg$image,domain=karapaia.com
+||livedoor.4.blogimg.jp/karapaia_zaeega/imgs/f/f/ff9470e2.gif$image,domain=karapaia.com
 !------------ ハムスター速報 http://hamusoku.com/
-||livedoor.4.blogimg.jp/hamusoku/imgs/7/c/7c7e0aca.jpg$image
+||livedoor.4.blogimg.jp/hamusoku/imgs/7/c/7c7e0aca.jpg$image,domain=hamusoku.com
 !------------ オレ的ゲーム速報＠刃 http://jin115.com/
-||livedoor.blogimg.jp/jin115/imgs/b/7/b796d931.png$image
-||livedoor.blogimg.jp/jin115/imgs/d/a/dad1e8a1.gif$image
+||livedoor.blogimg.jp/jin115/imgs/b/7/b796d931.png$image,domain=jin115.com
+||livedoor.blogimg.jp/jin115/imgs/d/a/dad1e8a1.gif$image,domain=jin115.com
 jin115.com$$div[class="section-box"][wildcard="*a*href=*youtube.com/user/jin115xx*"]
 jin115.com$$div[class="section-box"][wildcard="*div*class=*image-item*a*href=*//jin115.com/*img*src=*//livedoor.blogimg.jp/jin115/*/*.gif*"]
 !------------ ZAPZAP! http://zapzapjp.com/
-||parts.blog.livedoor.jp/img/lite2/usr/matomegray/bg.gif$image
+||parts.blog.livedoor.jp/img/lite2/usr/matomegray/bg.gif$image,domain=zapzapjp.com
 zapzapjp.com$$aside[class="section-box"][wildcard="*<div*class=*plugin-free_area*"]
 !------------ 海外の万国反応記＠海外の反応 http://www.all-nationz.com/
-||livedoor.sp.blogimg.jp/all_nations/imgs/1/6/16883601.png$image
+||livedoor.sp.blogimg.jp/all_nations/imgs/1/6/16883601.png$image,domain=all-nationz.com
 !------------ 大艦巨砲主義！ http://military38.com/
-||parts.blog.livedoor.jp/img/lite2/usr/matomeblue/bg_header_b.png$image
+||parts.blog.livedoor.jp/img/lite2/usr/matomeblue/bg_header_b.png$image,domain=military38.com
 !------------ らばQ http://labaq.com/
 labaq.com###article-contents > div
 !------------ 保守速報 http://hosyusokuhou.jp/
+||hosyusokuhou.jp/wp/wp-content/themes/hssksp/commons/banner_*.jpg$image
 hosyusokuhou.jp###bottom
 hosyusokuhou.jp###related
-||hosyusokuhou.jp/wp/wp-content/themes/hssksp/commons/banner_*.jpg$image
 hosyusokuhou.jp###socialbtns
 hosyusokuhou.jp##div.abox
 hosyusokuhou.jp##aside#top
