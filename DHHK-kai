@@ -1,88 +1,37 @@
-! Title: DHHK・AdGuardﾜｯﾁｮｲスレ用一纏めフィルタ
-! Homepage: https://dl.dropboxusercontent.com/s/haj1mlu5qyyb8q3/DHHK%E3%83%BBAdguard%EF%BE%9C%EF%BD%AF%EF%BE%81%EF%BD%AE%EF%BD%B2%E3%82%B9%E3%83%AC%E7%94%A8%E4%B8%80%E7%BA%8F%E3%82%81%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF.txt
-! License: CC BY-SA 4.0 ( https://creativecommons.org/licenses/by-sa/4.0/deed.ja )
-! Disclaimer: フィルタ作成者は当フィルタにより生じた一切においていかなる責も負いません
-! Expires: 5 days
-! Version: 20180203_104223
-
-!■■■■■■■■■■■■■■■■■■■■■■■■■■
-!用途
-!－－－－－－－－－－
-!　RSS/feed reader閲覧で都合よく表示するのを目的としています
+! Title: DHHKフィルター改
+! Version: 2018-12-05
+! Homepage: https://egg.5ch.net/android/
+! License: CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
 !
-!－－－－－－－－－－
-!使用方法
-!－－－－－－－－－－
-!　他のAdblockフィルタの後ろに追加して使用。前に追加すると想定動作しない恐れがあります
+! （改変元）DHHKフィルター
+! DHHK-Title: DHHK・AdGuardﾜｯﾁｮｲスレ用一纏めフィルタ
+! DHHK-Version: 20180203_104223
+! DHHK-Homepage: https://dl.dropboxusercontent.com/s/haj1mlu5qyyb8q3/DHHK%E3%83%BBAdguard%EF%BE%9C%EF%BD%AF%EF%BE%81%EF%BD%AE%EF%BD%B2%E3%82%B9%E3%83%AC%E7%94%A8%E4%B8%80%E7%BA%8F%E3%82%81%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF.txt
+! DHHK-License: CC BY-SA 4.0 ( https://creativecommons.org/licenses/by-sa/4.0/deed.ja )
 !
-!－－－－－－－－－－
-!使用に当たっての注意点
-!－－－－－－－－－－
-!　一個人が自身用に作成したフィルタであり、汎用性・網羅性・正確性・更新性などに欠けます
-!　このフィルタ単体での使用を考慮していません。他のAdblockフィルタの使用を前提とし、それらで除去/非表示等していない要素を対象としています。わたしは現時点で以下のフィルタを併用しています
-!　　・280blocker for japanese mobile site ( https://280blocker.net/files/280blocker_adblock.txt )
-!　　・NoCoin Filter List ( https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt )
-!　先述したように「webはfeed購読からの閲覧」を前提としています。一般的なweb閲覧時に支障があるかもしれません。記事ページでは問題なくともトップ、記事リスト、ランキングページなどではarticleが表示されない場合もあります
-!　そのためある程度フィルタ記法を理解していること、誤爆していたら自分で対処できる程度の知識があることが半ば必須となります
-!■■■■■■■■■■■■■■■■■■■■■■■■■■
-
-
-
+! 【注意事項】
+! DHHKフィルターを改変したフィルターです。日本語ウェブサイトからあらゆる不要要素を消すことを目的としています。
+! AdGuard for Android以外では使用できません。
+! 単独での使用はできません。280blockerとなんJ改修フィルターを併用してください。
+! 280blocker
+! https://280blocker.net/files/280blocker_adblock.txt
+! なんJ改修フィルター
+! https://raw.githubusercontent.com/nanj-adguard2/nanj-kaishuu-filter/master/nanj-kaishuu-filter.txt
+! 不具合には各自で対処してください。このフィルターの使用によって発生したいかなる損害に対しても作者は一切の責任を負いません。
+!
 !■■■■■■■■■■■■■ ADBlock
 ||solty.biz^
 $$script[src="//solty.biz/"]
 $$link[href="//solty.biz/"]
 $$img[src="//solty.biz/"]
-!	280に##で収容済み。ドメイン指定しても構わないけどテスト
-||newser.cc/date-*^$empty
-~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~newser.cc$$a[href="//newser.cc/date-"]
-~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~newser.cc$$iframe[src="//newser.cc/date-"]
-!	280に##で収容済み。ドメイン指定しても構わないけどテスト
-||2ch-c.net/?$empty
-~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~2ch-c.net$$a[href="//2ch-c.net/?"]
-~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~2ch-c.net$$iframe[src="//2ch-c.net/?"]
-!	280に##で収容済み。ドメイン指定しても構わないけどテスト
-||moudamepo.com/pick.cgi?$empty
-~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~moudamepo.com$$a[href="//moudamepo.com/pick.cgi?"]
-~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~moudamepo.com$$iframe[src="//moudamepo.com/pick.cgi?"]
-!	280に##で収容済み。ドメイン指定しても構わないけどテスト
-||tokkaban.com/?$empty
-~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~tokkaban.com$$a[href="//tokkaban.com/?"]
-~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~tokkaban.com$$iframe[src="//tokkaban.com/?"]
-!	280に##で収容済み。ドメイン指定しても構わないけどテスト
-||new-soku.net/v.php?$empty
-~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~new-soku.net$$a[href="//new-soku.net/v.php?"]
-~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~new-soku.net$$iframe[href="//new-soku.net/v.php?"]
-||taobao.com^
-||counter.digits.com/wc/protos$image
 ||parsely.com^
 ||localytics.com^
 !■■■■■■■■■■■■■
-!■■■■■■■■■■■■■ whitelist
-!－－－－－－－－－－ OAuth
-!------------ Google
-!------------ Feedly
-!－－－－－－－－－－ Anti Simplified domain names filter
-!------------ shinobi.jp
-!－－－－－－－－－－ その他
-!■■■■■■■■■■■■■
-!■■■■■■■■■■■■■ Disable 280
-!－－－－－－－－－－ 広告ドメイン内有用サブドメイン
-!■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ アプリ
-!------------ YMO! https://play.google.com/store/apps/details?id=mhe.mhenv_ymo
 !------------ ChMate https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate
 ||www.airfront.co.jp/products/2chMate/settings.json^$app=jp.co.airfront.android.a2chMate,empty
-!------------ Yahoo!天気 https://play.google.com/store/apps/details?id=jp.co.yahoo.android.weather.type1
-!	くじバナーと天気投票の削除
-weather.yahoo.co.jp$$div[class="dcAppdoorToku"]
-weather.yahoo.co.jp$$div[class="imaten"][parent-elements="article"]
-!------------ どうぶつタワーバトル - のんびり対戦ゲーム https://play.google.com/store/apps/details?id=jp.planet12.AnimalTowerBattle
-!	ビデオを撮らない
-||everyplay.com^$app=jp.planet12.AnimalTowerBattle,empty
 !------------ Yahoo!乗換案内　無料の時刻表、運行情報、乗り換え検索 https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.transit
 ||s.yimg.jp/dl/transit/conf/appBanner/android_banner.json^$empty
-!------------ Google Play開発者サービス https://play.google.com/store/apps/details?id=com.google.android.gms
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ はてな系
 ||blog.hatena.ne.jp/*/*/subscribe/iframe$subdocument
