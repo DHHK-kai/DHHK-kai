@@ -21,17 +21,23 @@
 !
 !■■■■■■■■■■■■■ 共通ルール
 !------------ ADBlock
+||parsely.com^
+||localytics.com^
 ||solty.biz^
 $$script[src="//solty.biz/"]
 $$link[href="//solty.biz/"]
 $$img[src="//solty.biz/"]
-||parsely.com^
-||localytics.com^
 !------------ LINE
 ||biz.line.naver.jp/line_business/img/btn/*.*$image
 ||timeline.line.me/social-plugin-widget/*$subdocument
 !------------ Facebook
 ##iframe[src*="//www.facebook.com/plugins/page.php"]
+!------------ はてなブックマーク・はてなスター
+||blog.hatena.ne.jp/*/*/subscribe/iframe$subdocument
+||b.hatena.ne.jp/images/entry-button/button-only*.*$image
+||cdn.blog.st-hatena.com/images/theme/hatena-follow-button.png$image
+||hatena.ne.jp/images/add.gif^
+##.hatena-module-profile
 !------------  シェアボタン
 !	280に収容されていない。なにか不具合が発生する？
 ~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~line.me$$a[href="line.me/R/ti/p/%40"]
@@ -45,22 +51,7 @@ $$img[src="//solty.biz/"]
 !------------ Yahoo!乗換案内　無料の時刻表、運行情報、乗り換え検索 https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.transit
 ||s.yimg.jp/dl/transit/conf/appBanner/android_banner.json^$empty
 !■■■■■■■■■■■■■
-!■■■■■■■■■■■■■ はてな系
-||blog.hatena.ne.jp/*/*/subscribe/iframe$subdocument
-||b.hatena.ne.jp/images/entry-button/button-only*.*$image
-||cdn.blog.st-hatena.com/images/theme/hatena-follow-button.png$image
-##.hatena-module-profile
-!	スター追加ボタンを消してしまう…
-||hatena.ne.jp/images/add.gif^
-!	0画像は意味のない画像なら読み込む必要もないのでは？
-||cdn-ak.b.st-hatena.com/images/users/gif/normal/00000.gif^
-||d.hatena.ne.jp/images/touch/header-button-menu@2x.png$image
-d.hatena.ne.jp###side-menu-overlay-container
-d.hatena.ne.jp###google_afc_top
-d.hatena.ne.jp###diary-user-sp-bottom-rectangle
-d.hatena.ne.jp###diary-sp-pager-rectangle
-d.hatena.ne.jp###recommended-feature-notification
-d.hatena.ne.jp##.guest-footer.box
+!■■■■■■■■■■■■■ はてなブログ・ダイアリー
 !------------ はてなブログ共通
 www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###globalheader-container
 www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###bottom-editarea > .section
@@ -84,6 +75,15 @@ www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenas
 www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp$$ul[data-brand="hatenablog"][wildcard="*li*a*href=*//staff.hatenablog.com/*はてなブログ開発ブログ*"]
 !------------ 勝間和代が徹底的にマニアックな話をアップするブログ http://katsumakazuyo.hatenablog.com/
 katsumakazuyo.hatenablog.com$$div[id="top-editarea"][wildcard="*a*href=*//krs.bz/katsumaweb*"]
+!------------ はてなダイアリー http://d.hatena.ne.jp/
+||d.hatena.ne.jp/images/touch/header-button-menu@2x.png$image
+d.hatena.ne.jp###side-menu-overlay-container
+d.hatena.ne.jp###google_afc_top
+d.hatena.ne.jp###diary-user-sp-bottom-rectangle
+d.hatena.ne.jp###diary-sp-pager-rectangle
+d.hatena.ne.jp###recommended-feature-notification
+d.hatena.ne.jp##.guest-footer.box
+!------------ はてな匿名ダイアリー https://anond.hatelabo.jp/
 anond.hatelabo.jp$$script[src="//b.hatena.ne.jp/js/hatena_dfp"]
 anond.hatelabo.jp$$script[src="//b.st-hatena.com/js/bookmark_button.js"]
 anond.hatelabo.jp$$script[src="//widgets.outbrain.com/outbrain.js"]
