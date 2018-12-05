@@ -229,14 +229,12 @@ ka-soku.com,www.tomabechi.jp,himasoku.com,hosyusokuhou.jp,yurukuyaru.com,www.akb
 !------------ IT速報 http://blog.livedoor.jp/itsoku/
 blog.livedoor.jp$$div[class="amazlet-box"][tag-content="/itsoku-22/"]
 blog.livedoor.jp$$aside[class="section-box"][wildcard="*Facebookページ作りました*a*href=*//www.facebook.com/itsoku*"]
-!------------ 哲学ニュースnwk http://blog.livedoor.jp/nwknews/
 !------------ 軍事・ミリタリー速報☆彡 http://blog.livedoor.jp/corez18c24-mili777/
 blog.livedoor.jp$$section[id="menubar"][tag-content="//blog.livedoor.jp/corez18c24-mili777"]
 blog.livedoor.jp$$span[wildcard="*<span*このブログの人気記事*"]
 blog.livedoor.jp$$aside[class="section-box"][wildcard="*<div*class=*plugin-free_area*軍事ミリタリー速報のPCサイトは*"]
 !------------ 痛いニュース(ﾉ∀`) http://blog.livedoor.jp/dqnplus/
 ||parts.blog.livedoor.jp/img/cms_lite/common/icon/icon_forward.png$image
-!------------ ゴールデンタイムズ http://blog.livedoor.jp/goldennews/
 !------------ カイカイ反応通信 http://blog.livedoor.jp/kaikaihanno/
 blog.livedoor.jp$$aside[class="section-box"][wildcard="*コメント注意事項*カイカイ反応通信管理人*"]
 blog.livedoor.jp$$section[id="menubar"][tag-content="//blog.livedoor.jp/kaikaihanno/"]
@@ -247,12 +245,10 @@ gunji.blog.jp$$a[href="//message.blogcms.jp/livedoor/oy1982/lite/input"][parent-
 gunji.blog.jp$$h2[tag-content="軍事関連書籍　書評・紹介コーナー"][parent-elements="aside"]
 !------------ 【韓国の反応】みずきの女子知韓宣言（´∀｀*) http://oboega-01.blog.jp/
 ||parts.blog.livedoor.jp/img/lite2/usr/sakura2014/bg.png$image
-!------------ ラビット速報 http://rabitsokuhou.2chblog.jp/
 !------------ 市況かぶ全力２階建 http://kabumatome.doorblog.jp/
 kabumatome.doorblog.jp$$script[src="//kabumatome.doorblog.jp/settings/lite2/ads.js"]
 kabumatome.doorblog.jp$$script[tag-content="//kabumatome.doorblog.jp/_/json/ranking_category_"]
 kabumatome.doorblog.jp$$script[tag-content="//kabumatome.doorblog.jp/_/json/linelive_ranking.json"]
-!------------ 【2ch】ニュー速クオリティ http://news4vip.livedoor.biz/
 !------------ (*ﾟ∀ﾟ)ゞカガクニュース隊 http://www.scienceplus2ch.com/
 www.scienceplus2ch.com###article-contents a[href*=//goo.gl/"]
 !------------ カラパイア http://karapaia.com/
@@ -269,15 +265,12 @@ jin115.com$$div[class="section-box"][wildcard="*div*class=*image-item*a*href=*//
 !------------ ZAPZAP! http://zapzapjp.com/
 ||parts.blog.livedoor.jp/img/lite2/usr/matomegray/bg.gif$image
 zapzapjp.com$$aside[class="section-box"][wildcard="*<div*class=*plugin-free_area*"]
-!------------ ゲームキャスト iPhone http://www.gamecast-blog.com/
 !------------ 海外の万国反応記＠海外の反応 http://www.all-nationz.com/
 ||livedoor.sp.blogimg.jp/all_nations/imgs/1/6/16883601.png$image
-!------------ 海外の反応　お隣速報 http://www.otonarisoku.com/
 !------------ 大艦巨砲主義！ http://military38.com/
 ||parts.blog.livedoor.jp/img/lite2/usr/matomeblue/bg_header_b.png$image
 !------------ らばQ http://labaq.com/
 labaq.com###article-contents > div
-!------------ ゲハ速 http://gehasoku.com/
 !------------ 保守速報 http://hosyusokuhou.jp/
 hosyusokuhou.jp###bottom
 hosyusokuhou.jp###related
@@ -290,10 +283,8 @@ hosyusokuhou.jp$$script[src="/rss/"]
 hosyusokuhou.jp$$div[class="abox"]
 hosyusokuhou.jp$$p[wildcard="*不適切な用語*禁止*スパム*禁止ワード*"]
 hosyusokuhou.jp$$div[class="aban"]
-!------------ カオスちゃんねる http://chaos2ch.com/
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ SNS
-!------------ Twitter
 !------------ Facebook
 ##iframe[src*="//www.facebook.com/plugins/page.php"]
 !------------ LINE
@@ -304,8 +295,6 @@ mobile.twitter.com##._1363jyKz
 mobile.twitter.com##._7kIt4uMb
 mobile.twitter.com##._3cNu1G5p
 mobile.twitter.com##._2565dg3z
-!------------ Facebook https://www.facebook.com/
-!------------ Facebook https://m.facebook.com/
 !------------ Instagram https://www.instagram.com/
 www.instagram.com##._7shjj
 www.instagram.com##._28zbs
@@ -328,9 +317,9 @@ bakusai.com##.newsTicker
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ IT
 !------------ Impress Watch http://watch.impress.co.jp/
-watch.impress.co.jp##header
 ||watch.impress.co.jp/img/watch/parts/icon/star.svg$image
 ||watch.impress.co.jp/img/watch/parts/icon/pr.svg$image
+watch.impress.co.jp##header
 watch.impress.co.jp##.fb-parts
 !------------ IT総合情報ポータル「ITmedia」 http://www.itmedia.co.jp/
 ||image.itmedia.co.jp/spv/images/cmsHeaderBtn.png$image
@@ -356,9 +345,9 @@ appllio.com###block-views-recent-article-block-2
 appllio.com##.region-content-aside.region
 appllio.com##.mean-bar
 !------------ GPad http://gpad.tv/
+||gpad.tv/wp-content/plugins/wptouch/images/saved.png$image
 gpad.tv##noscript
 gpad.tv##.wp_social_bookmarking_light
-||gpad.tv/wp-content/plugins/wptouch/images/saved.png$image
 gpad.tv###noscript-wrap
 !------------ juggly.cn http://juggly.cn/
 juggly.cn##h3:contains(関連する記事一覧)
@@ -366,20 +355,20 @@ juggly.cn##h3:contains(関連する記事一覧) + ul
 juggly.cn##h3:contains(カテゴリ)
 juggly.cn##h3:contains(カテゴリ) + div.page
 !------------ すまほん!! https://smhn.info/
-smhn.info##.top_ad
 ||smhn.info/wp-content/themes/confidence/images/linebutton_86x20.png$image
-smhn.info##.share_top
 ||smhn.info/wp-content/themes/confidence/images/linebutton_36x60.png$image
 ||smhn.info/wp-content/themes/confidence/images/bg.png$image
 ||smhn.info/wp-content/themes/confidence/images/share-moblie.png$image
-smhn.info##.entry-footer
 ||smhn.info/wp-content/themes/confidence/images/social-counter-sprite.png$image
 ||smhn.info/wp-content/themes/confidence/images/rss-icon.png$image
+||smhn.info/wp-content/themes/confidence/images/strip.png$image
+||smhn.info/wp-content/themes/confidence/images/headerbg2l.png$image
+smhn.info##.top_ad
+smhn.info##.share_top
+smhn.info##.entry-footer
 smhn.info###counter
 smhn.info###text-12
-||smhn.info/wp-content/themes/confidence/images/strip.png$image
 smhn.info###hide-side
-||smhn.info/wp-content/themes/confidence/images/headerbg2l.png$image
 smhn.info###open-side
 smhn.info###post_sidebar
 smhn.info###post_stalker
@@ -394,22 +383,22 @@ smhn.info###related
 ||octoba.net/wp-content/themes/octobanet_mobile/images/btn_line2.png$image
 ||octoba.net/wp-content/themes/octobanet_mobile/images/btn_hatebu2.png$image
 ||octoba.net/wp-content/themes/octobanet_mobile/images/btn_pocket.png$image
-octoba.net##.social_button_single2
-octoba.net##.sp-middle2-ads
 ||octoba.net/wp-content/themes/octobanet_mobile/images/btn_twitter.png$image
 ||octoba.net/wp-content/themes/octobanet_mobile/images/btn_line.png$image
 ||octoba.net/wp-content/themes/octobanet_mobile/images/btn_hatebu.png$image
-octoba.net##.social_button_single
 ||octoba.jp/wp-content/uploads/2014/08/fb_2-500x98.png$image
-octoba.net##.sp-bottom-ads
-octoba.net##.single-others-h2
-octoba.net##.app-entry-list
 ||octoba.jp/wp-content/uploads/images/twitter.png$image
 ||octoba.jp/wp-content/uploads/images/facebook.png$image
 ||octoba.jp/wp-content/uploads/images/googleplus.png$image
 ||octoba.jp/wp-content/uploads/images/feed.png$image
 ||octoba.jp/wp-content/uploads/images/feedly.png$image
 ||octoba.jp/wp-content/uploads/2015/07/k-arrow-2.png$image
+octoba.net##.social_button_single2
+octoba.net##.sp-middle2-ads
+octoba.net##.social_button_single
+octoba.net##.sp-bottom-ads
+octoba.net##.single-others-h2
+octoba.net##.app-entry-list
 octoba.net##.pagetop
 octoba.net##.ossmhdr
 octoba.net##.related_post_header
@@ -460,11 +449,11 @@ japan.cnet.com##.item-word
 japan.cnet.com##.leaf-item-inner
 japan.cnet.com###logly-lift-widget-content-head
 !------------ コリス http://coliss.com/
+||coliss.com/wp-content/themes/coliss-ver51/images/bg-*.png$image
 coliss.com###socialBar
 coliss.com##.googleAd
 coliss.com###category
 coliss.com###sidebar
-||coliss.com/wp-content/themes/coliss-ver51/images/bg-*.png$image
 !------------ AppBank http://www.appbank.net/
 www.appbank.net###appbank-push
 www.appbank.net##.entry-custom-text
@@ -508,11 +497,11 @@ itpro.nikkeibp.co.jp##.list_G
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ ゲーム
 !------------ もぐらゲームス http://www.moguragames.com/
+||www.moguragames.com/wp-content/themes/twentyfourteen/images/pattern-light.svg$image
+||www.moguragames.com/wp-content/plugins/lazy-load/images/1x1.trans.gif$image
 www.moguragames.com##.social-shares
 www.moguragames.com##.social-links
 www.moguragames.com##.yarpp-related
-||www.moguragames.com/wp-content/themes/twentyfourteen/images/pattern-light.svg$image
-||www.moguragames.com/wp-content/plugins/lazy-load/images/1x1.trans.gif$image
 !------------ 電ファミニコゲーマー http://news.denfaminicogamer.jp/
 news.denfaminicogamer.jp###spFixedContent
 news.denfaminicogamer.jp##.followPalette
@@ -526,6 +515,8 @@ news.denfaminicogamer.jp##.snsBanner
 news.denfaminicogamer.jp###footerUpper
 news.denfaminicogamer.jp###subColumn
 !------------ AUTOMATON http://jp.automaton.am/
+||www.google-analytics.com/analytics.js^$domain=jp.automaton.am
+||www.google-analytics.com/r/collect^$domain=jp.automaton.am
 jp.automaton.am$$script[src="//jp.automaton.am/wp-content/plugins/wordpress-popular-posts/public/js/tracking.js"]
 jp.automaton.am$$script[src=".adingo.jp/"]
 jp.automaton.am$$script[src="//b.st-hatena.com/js/bookmark_button.js"]
@@ -553,8 +544,6 @@ jp.automaton.am$$span[tag-content="スポンサーリンク"]
 jp.automaton.am$$div[id="fb-root"]
 jp.automaton.am$$div[class="td-footer-bottom-full"]
 jp.automaton.am$$div[class="td-header-top-menu-full"]
-||www.google-analytics.com/analytics.js^$domain=jp.automaton.am
-||www.google-analytics.com/r/collect^$domain=jp.automaton.am
 jp.automaton.am##div.social4i
 jp.automaton.am##div.catlists
 jp.automaton.am##div.td-main-sidebar
@@ -612,6 +601,7 @@ n-styles.com##center:contains(スポンサーリンク)
 !------------ ギズモード・ジャパン http://www.gizmodo.jp/
 ||www.gizmodo.jp/assets/sp/img/icon_home.png$image
 ||www.gizmodo.jp/assets/sp/img/icon_menu.png$image
+||fanp.me/static/images/icon_messenger.png$image,domain=www.gizmodo.jp
 www.gizmodo.jp###messenger_widget
 www.gizmodo.jp###fanp_plugin_open_btn
 www.gizmodo.jp##.gz-globalButton-item
@@ -916,6 +906,7 @@ jp.mobile.reuters.com##.mpu_ad
 !------------ BuzzFeed http://www.buzzfeed.com/
 ||img.buzzfeed.com/buzzfeed-static/static/images/mobile/ios-dudeyawn-promo.png$image
 ||img.buzzfeed.com/buzzfeed-static/static/images/mobile/dudeyawn-promo.png$image
+||embed.contagiousmedia.com/embed/sub/$subdocument,domain=www.buzzfeed.com
 www.buzzfeed.com###mod-ad-msu-1
 www.buzzfeed.com###mod-feedgrid-1
 www.buzzfeed.com###mod-contributions-1
