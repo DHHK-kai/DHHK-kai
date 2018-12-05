@@ -610,13 +610,12 @@ n-styles.com##center:contains(スポンサーリンク)
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ ガジェット・ライフハック系などブログマガジン
 !------------ ギズモード・ジャパン http://www.gizmodo.jp/
-www.gizmodo.jp###messenger_widget
-||fanp.me/static/images/icon_messenger.png$image
-www.gizmodo.jp###fanp_plugin_open_btn
 ||www.gizmodo.jp/assets/sp/img/icon_home.png$image
+||www.gizmodo.jp/assets/sp/img/icon_menu.png$image
+www.gizmodo.jp###messenger_widget
+www.gizmodo.jp###fanp_plugin_open_btn
 www.gizmodo.jp##.gz-globalButton-item
 www.gizmodo.jp##.gz-globalButton
-||www.gizmodo.jp/assets/sp/img/icon_menu.png$image
 www.gizmodo.jp##.gz-globalNav-item
 www.gizmodo.jp##.gz-globalNav-button
 www.gizmodo.jp##.recommend
@@ -749,10 +748,10 @@ nuwton.com##.follow
 nuwton.com##.share
 nuwton.com##.relations
 !------------ the360.life テストする買い物ガイド http://the360.life/
+||the360.life/ecimage/ca1/*/*.png$image
 the360.life##.art-reco
 the360.life###topBtn
 the360.life###homeBtn
-||the360.life/ecimage/ca1/*/*.png$image
 !------------ ヨミタク https://yomitaku.com/
 yomitaku.com##.menu-sp
 yomitaku.com##.widget_text
@@ -770,6 +769,9 @@ yomitaku.com###sidebar1!
 matome.naver.jp##section
 matome.naver.jp##aside
 !------------ Togetter https://togetter.com/
+||s.togetter.com/static/1.14.24/web/img/banner/hatena_banner.png$image
+||s.togetter.com/static/1.14.24/web/img/banner/inofes_banner.png$image
+||s.togetter.com/static/1.14.24/web/img/banner/fgo0_banner.png$image
 togetter.com##.favorite_user_box
 togetter.com##.feedback_box
 togetter.com##.app-dl
@@ -779,9 +781,6 @@ togetter.com##.editor_recommend
 togetter.com##.togech_box
 togetter.com##.download_header
 togetter.com###comment_box > .list_box
-||s.togetter.com/static/1.14.24/web/img/banner/hatena_banner.png$image
-||s.togetter.com/static/1.14.24/web/img/banner/inofes_banner.png$image
-||s.togetter.com/static/1.14.24/web/img/banner/fgo0_banner.png$image
 togetter.com##.social_follow_box
 togetter.com###right_wrap_middle
 togetter.com###gototop
@@ -829,6 +828,7 @@ kaito1412.wp-x.jp###secondary
 kaito1412.wp-x.jp##.wp_rp.related_post
 kaito1412.wp-x.jp##.related_post_title
 !------------ netgeek http://netgeek.biz/
+||netgeek.biz/wp-content/uploads/2014/03/tileable_wood_texture2.png$image
 netgeek.biz##.wptouch-showcase
 netgeek.biz##.related-posts
 netgeek.biz##.footer
@@ -838,7 +838,6 @@ netgeek.biz##.menucont
 netgeek.biz##.rw-rating-table
 netgeek.biz##.share
 netgeek.biz##.rw-ui-mobile-wrapper
-||netgeek.biz/wp-content/uploads/2014/03/tileable_wood_texture2.png$image
 netgeek.biz###___ytsubscribe_0
 netgeek.biz###related
 !■■■■■■■■■■■■■
@@ -907,27 +906,25 @@ www.afpbb.com##.pr-text
 www.afpbb.com$$div[id="btn-open"]
 www.afpbb.com$$div[id="buttonAd"]
 !------------ ロイター  http://jp.reuters.com/
-jp.mobile.reuters.com##.mpu_ad
 jp.reuters.com##.column2
 jp.reuters.com##.util-social
 jp.reuters.com##.footer
 jp.reuters.com###TopSection_Article
 jp.reuters.com###ArticleInDepth
 jp.reuters.com###follow-reuters
+jp.mobile.reuters.com##.mpu_ad
 !------------ BuzzFeed http://www.buzzfeed.com/
+||img.buzzfeed.com/buzzfeed-static/static/images/mobile/ios-dudeyawn-promo.png$image
+||img.buzzfeed.com/buzzfeed-static/static/images/mobile/dudeyawn-promo.png$image
 www.buzzfeed.com###mod-ad-msu-1
 www.buzzfeed.com###mod-feedgrid-1
 www.buzzfeed.com###mod-contributions-1
-||img.buzzfeed.com/buzzfeed-static/static/images/mobile/ios-dudeyawn-promo.png$image
-||img.buzzfeed.com/buzzfeed-static/static/images/mobile/dudeyawn-promo.png$image
 www.buzzfeed.com###mod-progressive-image-1
-||embed.contagiousmedia.com/embed/sub/$subdocument
 www.buzzfeed.com###mod-embed-1
 www.buzzfeed.com##.fb-page
 www.buzzfeed.com###mod-thumbstrip-1
 www.buzzfeed.com###mod-subbuzz-text-4
 www.buzzfeed.com##.xs-px1
-!------------ J-CASTニュース https://www.j-cast.com/
 !------------ SankeiBiz（サンケイビズ） http://www.sankeibiz.jp/
 ||www.sankeibiz.jp/smp/common/images/v1/icon/icon_*.png$image
 www.sankeibiz.jp##.socialButton
@@ -1034,10 +1031,7 @@ www.huffingtonpost.jp###topnav_big_news_module
 www.huffingtonpost.jp###social_badges
 www.huffingtonpost.jp##.fan
 www.huffingtonpost.jp##.topnav
-!------------ HuffPost http://huffpost.com/jp/
 !------------ ハフポスト http://m.huffingtonpost.jp/
-m.huffpost.com##.spinner
-m.huffpost.com##.extra-content
 m.huffingtonpost.jp##.social-list
 m.huffingtonpost.jp##.share-bar--horizontal
 m.huffingtonpost.jp##.author-card__social-container
@@ -1051,6 +1045,8 @@ m.huffingtonpost.jp$$div[id="modulous_mobileweb_transporter_bottom"]
 m.huffingtonpost.jp##a.comment-button
 m.huffingtonpost.jp##div#comments_module_container
 m.huffingtonpost.jp##div.tag-cloud
+m.huffpost.com##.spinner
+m.huffpost.com##.extra-content
 !------------ NewsDigest（ニュースダイジェスト）ニュース速報と地震・災害速報まとめ https://newsdigest.jp/
 newsdigest.jp$$script[src="//www.googletagservices.com/tag/js/gpt.js"]
 newsdigest.jp$$script[tag-content="googletag"]
@@ -1088,11 +1084,11 @@ jp.wsj.com##.carousel-container
 jp.wsj.com##.sector:nth-of-type(7) > .column
 jp.wsj.com##.sector:nth-of-type(3) > .column
 !------------ 毎日新聞社 https://mainichi.jp/
+||cdn.mainichi.jp/vol1/images/sp/line-dashed.svg$image
 mainichi.jp###page-top
 mainichi.jp##.kanren-keywords
 mainichi.jp##.ranking
 mainichi.jp##.recommend
-||cdn.mainichi.jp/vol1/images/sp/line-dashed.svg$image
 mainichi.jp##.block-line
 mainichi.jp##.share
 !------------ 朝日新聞デジタル http://www.asahi.com/
@@ -1115,7 +1111,6 @@ sp.yomiuri.co.jp###footermenu
 sp.yomiuri.co.jp##.follow-buttons-wrapper
 sp.yomiuri.co.jp###scrollToTop
 sp.yomiuri.co.jp##.box-economy
-!------------ 産経ニュース http://www.sankei.com/
 !------------ NHK NEWS WEB｜NHKのニュースサイト http://www3.nhk.or.jp/news/
 www3.nhk.or.jp##.module--news-keyword
 www3.nhk.or.jp##.detail-feature
@@ -1399,11 +1394,11 @@ www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.c
 www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###links
 www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###footer
 !------------ news-us http://www.news-us.jp/
-www.news-us.jp##.ad728
+||www.news-us.org/html/rss.html$subdocument
 ||img.news-us.jp/bg_bd.gif$image
+www.news-us.jp##.ad728
 www.news-us.jp##.box
 www.news-us.jp##.box728
-||www.news-us.org/html/rss.html$subdocument
 www.news-us.jp##iframe[src*="www.news-us.org"]
 !------------ ブロマガ共通 http://sp.ch.nicovideo.jp/portal/blomaga/
 alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###smartBanner
@@ -1430,9 +1425,6 @@ alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###rss1
 alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###social_link
 alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###footerContents
 alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##div:contains(スポンサード リンク)
-!------------ 幕末志士(幕末志士) http://sp.ch.nicovideo.jp/bakumatsu/blomaga/
-!------------ アルファルファモザイク http://alfalfalfa.com/
-!------------ カナ速 http://kanasoku.info/
 !------------ FC2ブログ共通 https://blog.fc2.com/
 blog130.fc2.com,blog117.fc2.com,blog.fc2.com###rss_antena
 blog130.fc2.com,blog117.fc2.com,blog.fc2.com##.im_headerad
@@ -1441,7 +1433,6 @@ blog130.fc2.com,blog117.fc2.com,blog.fc2.com###rtrank_wrap
 blog130.fc2.com,blog117.fc2.com,blog.fc2.com###sidemenu1
 blog130.fc2.com,blog117.fc2.com,blog.fc2.com###sh_fc2blogheadbar
 blog130.fc2.com,blog117.fc2.com,blog.fc2.com##.AdContainer
-!------------ 人生VIP職人ブログwww_sp http://workingnews.blog117.fc2.com/
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ その他
 !------------ goo辞書 - 国語・英語・四字熟語・中国語のオンライン辞書 https://dictionary.goo.ne.jp/
@@ -1474,8 +1465,8 @@ seesaawiki.jp###footer-contents
 seesaawiki.jp##.qrcode
 seesaawiki.jp###page-social-link-bottom
 !------------ TextUploader.com http://textuploader.com/
-textuploader.com##.clearfix.toolbar > .pull-left
 ||textuploader.com/assets/img/patterns/bg*.png$image
+textuploader.com##.clearfix.toolbar > .pull-left
 textuploader.com##.scrollup
 !------------ Pastebin.com https://pastebin.com/
 pastebin.com###paypal-overlay
