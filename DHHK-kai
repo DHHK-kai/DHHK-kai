@@ -108,12 +108,6 @@ anond.hatelabo.jp$$img[class="icon"][onload="if (this.naturalWidth === 1) this.p
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ livedoorブログ（2ch系まとめ・SNSまとめ・翻訳・転載など）
 !------------ 共通 http://blog.livedoor.com/ http://blog.jp/
-
-||parts.blog.livedoor.jp/img/cms_lite/common/icon/icon_forward.png$image
-
-
-
-
 ka-soku.com,www.tomabechi.jp,himasoku.com,hosyusokuhou.jp,yurukuyaru.com,www.akb48matomemory.com,www.scienceplus2ch.com,military38.com,chaos2ch.com,labaq.com,gehasoku.com,www.otonarisoku.com,www.all-nationz.com,www.gamecast-blog.com,zapzapjp.com,jin115.com,hamusoku.com,karapaia.com,blog.jp,doorblog.jp,ldblog.jp,dreamlog.jp,publog.jp,livedoor.biz,diary.to,weblog.to,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,gger.jp,golog.jp,liblo.jp,myjournal.jp,mynikki.jp,xxxblog.jp,youblog.jp,2chblog.jp,teamblog.jp,corpblog.jp,officeblog.jp,storeblog.jp,cafeblog.jp,officialblog.jp,techblog.jp,blog.livedoor.jp##.linelive-ranking
 ka-soku.com,www.tomabechi.jp,himasoku.com,hosyusokuhou.jp,yurukuyaru.com,www.akb48matomemory.com,www.scienceplus2ch.com,military38.com,chaos2ch.com,labaq.com,gehasoku.com,www.otonarisoku.com,www.all-nationz.com,www.gamecast-blog.com,zapzapjp.com,jin115.com,hamusoku.com,karapaia.com,blog.jp,doorblog.jp,ldblog.jp,dreamlog.jp,publog.jp,livedoor.biz,diary.to,weblog.to,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,gger.jp,golog.jp,liblo.jp,myjournal.jp,mynikki.jp,xxxblog.jp,youblog.jp,2chblog.jp,teamblog.jp,corpblog.jp,officeblog.jp,storeblog.jp,cafeblog.jp,officialblog.jp,techblog.jp,blog.livedoor.jp##.footer-addline-banner
 ka-soku.com,www.tomabechi.jp,himasoku.com,hosyusokuhou.jp,yurukuyaru.com,www.akb48matomemory.com,www.scienceplus2ch.com,military38.com,chaos2ch.com,labaq.com,gehasoku.com,www.otonarisoku.com,www.all-nationz.com,www.gamecast-blog.com,zapzapjp.com,jin115.com,hamusoku.com,karapaia.com,blog.jp,doorblog.jp,ldblog.jp,dreamlog.jp,publog.jp,livedoor.biz,diary.to,weblog.to,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,gger.jp,golog.jp,liblo.jp,myjournal.jp,mynikki.jp,xxxblog.jp,youblog.jp,2chblog.jp,teamblog.jp,corpblog.jp,officeblog.jp,storeblog.jp,cafeblog.jp,officialblog.jp,techblog.jp,blog.livedoor.jp##.footer-ranking
@@ -245,7 +239,7 @@ ka-soku.com,www.tomabechi.jp,himasoku.com,hosyusokuhou.jp,yurukuyaru.com,www.akb
 !------------ IT速報 http://blog.livedoor.jp/itsoku/
 blog.livedoor.jp$$div[class="amazlet-box"][tag-content="/itsoku-22/"]
 !------------ 軍事・ミリタリー速報☆彡 http://blog.livedoor.jp/corez18c24-mili777/
-blog.livedoor.jp$$span[wildcard="*<span*このブログの人気記事*"][tag-content="/blog.livedoor.jp/corez18c24-mili777/"]
+blog.livedoor.jp$$span[wildcard="*<span*このブログの人気記事*"][tag-content="//blog.livedoor.jp/corez18c24-mili777/"]
 blog.livedoor.jp$$section[id="menubar"][tag-content="//blog.livedoor.jp/corez18c24-mili777/"]
 !------------ カイカイ反応通信 http://blog.livedoor.jp/kaikaihanno/
 blog.livedoor.jp$$section[id="menubar"][tag-content="//blog.livedoor.jp/kaikaihanno/"]
