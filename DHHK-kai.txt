@@ -18,7 +18,6 @@
 !
 !■■■■■■■■■■■■■ 共通ルール
 !------------ ADBlock
-||parsely.com^
 ||localytics.com^
 ||solty.biz^
 $$script[src="//solty.biz/"]
