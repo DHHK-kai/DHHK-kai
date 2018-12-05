@@ -39,12 +39,6 @@ $$img[src="//solty.biz/"]
 ~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~hatena.ne.jp$$a[href="//b.hatena.ne.jp/entry/"][title="はてなブックマークでシェアする"]
 !	このリンクはSNSシェアボタンを邪魔に思う人にとっては相当厄介…。たぶんこの指定では誤爆の可能性が残ります。使用されていたのは https://bijutsutecho.com/ 。なんでaddを使わないんだろう？
 ~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~hatena.ne.jp$$a[href="//b.hatena.ne.jp/entry/"][tag-content="icon-hatebu"]
-
-
-
-
-
-
 !■■■■■■■■■■■■■ アプリ
 !------------ ChMate https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate
 ||www.airfront.co.jp/products/2chMate/settings.json^$app=jp.co.airfront.android.a2chMate,empty
