@@ -27,7 +27,6 @@
 !------------ はてなブックマーク・はてなスター
 ||blog.hatena.ne.jp/*/*/subscribe/iframe$subdocument
 ||b.hatena.ne.jp/images/entry-button/button-only*.*$image
-||cdn.blog.st-hatena.com/images/theme/hatena-follow-button.png$image
 ||cdn-ak.b.st-hatena.com/images/users/gif/normal/00000.gif^
 ||hatena.ne.jp/images/add.gif^
 ##.hatena-module-profile
