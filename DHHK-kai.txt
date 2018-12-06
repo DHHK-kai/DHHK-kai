@@ -25,7 +25,6 @@
 !------------ Facebook
 ##iframe[src*="//www.facebook.com/plugins/page.php"]
 !------------ はてなブックマーク・はてなスター
-||blog.hatena.ne.jp/*/*/subscribe/iframe$subdocument
 ||b.hatena.ne.jp/images/entry-button/button-only*.*$image
 ||cdn-ak.b.st-hatena.com/images/users/gif/normal/00000.gif^
 ||hatena.ne.jp/images/add.gif^
@@ -40,6 +39,7 @@
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ はてなブログ・ダイアリー
 !------------ はてなブログ共通
+||blog.hatena.ne.jp/*/*/subscribe/iframe$subdocument
 www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###globalheader-container
 www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###bottom-editarea > .section
 www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.footer-action-wrapper
