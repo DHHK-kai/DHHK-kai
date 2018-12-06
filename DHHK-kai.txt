@@ -36,8 +36,6 @@
 ~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~line.me$$a[href="line.me/R/ti/p/%40"]
 !	根本的には、これはシェアリンクではなくソーシャルブックマークリンクなのが原因。ソーシャルブックマーク先でシェア（ブックマーク）する手順を踏むため、リンクのみで判断するのが悪手となってしまう。なんでこのリンクが使われているんだろう？ 以前「image内包に限定すべき」として解除し「##a[href*="b.hatena.ne.jp/entry"] img」と改善されましたがこれでも漏れてしまう。一例 https://seolaboratory.jp/ 。target="_blank"で判断するとソーシャルブックマークリンクとしても使われかねなく困難なので、title=を使うのが妥当かな？ ここではかなりきつめに絞ってますが「シェア」だけでも良さそう
 ~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~hatena.ne.jp$$a[href="//b.hatena.ne.jp/entry/"][title="はてなブックマークでシェアする"]
-!	このリンクはSNSシェアボタンを邪魔に思う人にとっては相当厄介…。たぶんこの指定では誤爆の可能性が残ります。使用されていたのは https://bijutsutecho.com/ 。なんでaddを使わないんだろう？
-~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~hatena.ne.jp$$a[href="//b.hatena.ne.jp/entry/"][tag-content="icon-hatebu"]
 !■■■■■■■■■■■■■ アプリ
 !------------ ChMate https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate
 ||www.airfront.co.jp/products/2chMate/settings.json^$app=jp.co.airfront.android.a2chMate,empty
