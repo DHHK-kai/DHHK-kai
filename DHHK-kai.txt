@@ -32,8 +32,6 @@
 !■■■■■■■■■■■■■ アプリ
 !------------ ChMate https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate
 ||www.airfront.co.jp/products/2chMate/settings.json^$app=jp.co.airfront.android.a2chMate,empty
-!------------ Yahoo!乗換案内　無料の時刻表、運行情報、乗り換え検索 https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.transit
-||s.yimg.jp/dl/transit/conf/appBanner/android_banner.json^$empty
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ はてなブログ・ダイアリー
 !------------ はてなブログ共通
