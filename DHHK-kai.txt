@@ -22,6 +22,7 @@
 !------------ LINE
 ||biz.line.naver.jp/line_business/img/btn/*.*$image
 ||timeline.line.me/social-plugin-widget/*$subdocument
+~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~line.me$$a[href="line.me/R/ti/p/%40"]
 !------------ Facebook
 ##iframe[src*="//www.facebook.com/plugins/page.php"]
 !------------ はてなブックマーク・はてなスター
@@ -30,7 +31,6 @@
 ||hatena.ne.jp/images/add.gif^
 !------------  シェアボタン
 !	280に収容されていない。なにか不具合が発生する？
-~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~line.me$$a[href="line.me/R/ti/p/%40"]
 !■■■■■■■■■■■■■ アプリ
 !------------ ChMate https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate
 ||www.airfront.co.jp/products/2chMate/settings.json^$app=jp.co.airfront.android.a2chMate,empty
