@@ -29,7 +29,6 @@
 ||b.hatena.ne.jp/images/entry-button/button-only*.*$image
 ||cdn-ak.b.st-hatena.com/images/users/gif/normal/00000.gif^
 ||hatena.ne.jp/images/add.gif^
-##.hatena-module-profile
 !------------  シェアボタン
 !	280に収容されていない。なにか不具合が発生する？
 ~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~line.me$$a[href="line.me/R/ti/p/%40"]
@@ -61,6 +60,7 @@ www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenas
 www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp$$ins[class="adsbygoogle"]
 www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp$$div[id="footer-ad-rectangle"]
 www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp$$ul[data-brand="hatenablog"][wildcard="*li*a*href=*//staff.hatenablog.com/*はてなブログ開発ブログ*"]
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.hatena-module-profile
 !------------ 勝間和代が徹底的にマニアックな話をアップするブログ http://katsumakazuyo.hatenablog.com/
 katsumakazuyo.hatenablog.com$$div[id="top-editarea"][wildcard="*a*href=*//krs.bz/katsumaweb*"]
 !------------ はてなダイアリー http://d.hatena.ne.jp/
