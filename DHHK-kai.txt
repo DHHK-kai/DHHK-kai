@@ -19,10 +19,6 @@
 !■■■■■■■■■■■■■ 共通ルール
 !------------ ADBlock
 ||localytics.com^
-||solty.biz^
-$$script[src="//solty.biz/"]
-$$link[href="//solty.biz/"]
-$$img[src="//solty.biz/"]
 !------------ LINE
 ||biz.line.naver.jp/line_business/img/btn/*.*$image
 ||timeline.line.me/social-plugin-widget/*$subdocument
