@@ -29,8 +29,6 @@
 ||b.hatena.ne.jp/images/entry-button/button-only*.*$image
 ||cdn-ak.b.st-hatena.com/images/users/gif/normal/00000.gif^
 ||hatena.ne.jp/images/add.gif^
-!------------  シェアボタン
-!	280に収容されていない。なにか不具合が発生する？
 !■■■■■■■■■■■■■ アプリ
 !------------ ChMate https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate
 ||www.airfront.co.jp/products/2chMate/settings.json^$app=jp.co.airfront.android.a2chMate,empty
