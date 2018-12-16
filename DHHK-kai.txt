@@ -304,6 +304,13 @@ kaito1412.wp-x.jp##.wp_rp.related_post
 kaito1412.wp-x.jp##.related_post_title
 !------------ やらおん！ http://yaraon-blog.com/
 yaraon-blog.com##.sns
+!------------ news-us http://news-us.org/
+||news-us.org/html/rss.html$subdocument
+||img.news-us.org/bg_bd.gif$image
+news-us.org##.ad728
+news-us.org##.box
+news-us.org##.box728
+news-us.org##iframe[src*="www.news-us.org"]
 !------------ netgeek http://netgeek.biz/
 ||netgeek.biz/wp-content/uploads/2014/03/tileable_wood_texture2.png$image
 netgeek.biz##.wptouch-showcase
@@ -368,6 +375,10 @@ s.webry.info##.imglist
 s.webry.info###container > .akdorFitToWidth
 s.webry.info###news_parts
 s.webry.info###expmenu-biglobe_news-row
+!------------ blogger https://www.blogger.com/
+blogspot.jp,blogspot.com###navbar
+blogspot.jp,blogspot.com##.column-left-inner > aside
+blogspot.jp,blogspot.com##.columns-2.section-columns
 !------------ Seesaaブログ共通 http://blog.seesaa.jp/
 www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###button
 www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net##.box, .mb10
@@ -377,13 +388,6 @@ www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.c
 www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###links-left
 www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###links
 www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###footer
-!------------ news-us http://www.news-us.jp/
-||www.news-us.org/html/rss.html$subdocument
-||img.news-us.jp/bg_bd.gif$image
-www.news-us.jp##.ad728
-www.news-us.jp##.box
-www.news-us.jp##.box728
-www.news-us.jp##iframe[src*="www.news-us.org"]
 !------------ ブロマガ共通 http://sp.ch.nicovideo.jp/portal/blomaga/
 alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###smartBanner
 alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###appBanner
@@ -421,10 +425,6 @@ blog130.fc2.com,blog117.fc2.com,blog.fc2.com##.AdContainer
 www.anige-sokuhouvip.com##.rerat2
 www.anige-sokuhouvip.com##.t_c
 www.anige-sokuhouvip.com###modernentryrank
-!------------ blogger https://www.blogger.com/
-blogspot.jp,blogspot.com###navbar
-blogspot.jp,blogspot.com##.column-left-inner > aside
-blogspot.jp,blogspot.com##.columns-2.section-columns
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ まとめ系その他
 !------------ NAVER まとめ https://matome.naver.jp/m/
