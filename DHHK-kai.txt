@@ -819,6 +819,8 @@ rocketnews24.com###related-posts
 rocketnews24.com##.social-follow
 rocketnews24.com##.related-posts
 rocketnews24.com###secondary
+!------------ まぐまぐニュース！ https://www.mag2.com/p/news/
+www.mag2.com##.share-inc
 !------------ DNA - Daily News Agency http://dailynewsagency.com/
 dailynewsagency.com###sidebar
 dailynewsagency.com##.post-else
