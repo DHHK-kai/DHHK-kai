@@ -4,7 +4,7 @@
 ! License: CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
 !
 ! 【概要】
-! AdGuard for Androidを使用して日本語ウェブサイトからあらゆる不要要素を消すことを目的としたフィルターです。
+! AdGuard for Androidを使用して日本語ウェブサイトから本文以外の全要素を消すことを目的としたフィルターです。
 ! 不具合には各自で対処してください。このフィルターの使用によって発生したいかなる損害に対しても作者は一切の責任を負いません。
 ! 単独で使用することはできません。280blockerとなんJ改修フィルターを併用してください。
 ! このフィルターはDHHKフィルター20180203_104223を改変したものです。
@@ -807,8 +807,16 @@ originalnews.nico###categories-3
 originalnews.nico###relatecontets_widget-2
 originalnews.nico##.gaTrackEvent
 !------------ ロケットニュース24 http://rocketnews24.com/
+||sociorocketnews.files.wordpress.com/*&crop=1$image,domain=rocketnews24.com
 rocketnews24.com##.post-misc
 rocketnews24.com###sub-content
+rocketnews24.com###secondary
+rocketnews24.com##header
+rocketnews24.com##footer
+rocketnews24.com###page-nav
+rocketnews24.com###related-posts
+rocketnews24.com##.social-follow
+rocketnews24.com##.related-posts
 rocketnews24.com###secondary
 !------------ DNA - Daily News Agency http://dailynewsagency.com/
 dailynewsagency.com###sidebar
