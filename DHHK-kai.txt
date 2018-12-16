@@ -36,7 +36,7 @@
 !■■■■■■■■■■■■■ livedoorブログ
 !------------ 共通 http://blog.livedoor.com/ http://blog.jp/
 !livedoor.blog,matomelotte.com,inutomo11.com,npb-news.com,central-dragons.com,onjsummarynet.net,wasidukami.club,onjmix.net,toralucky.fun,toramoukoseiha.com,nandemo-uketori.com,kokofire.info
-,blog.esuteru.com,
+,blog.esuteru.com,vipsister23.com,
 
 
 livedoor.blog,ka-soku.com,www.tomabechi.jp,himasoku.com,hosyusokuhou.jp,yurukuyaru.com,www.akb48matomemory.com,www.scienceplus2ch.com,military38.com,chaos2ch.com,labaq.com,gehasoku.com,www.otonarisoku.com,www.all-nationz.com,www.gamecast-blog.com,zapzapjp.com,jin115.com,hamusoku.com,karapaia.com,blog.jp,doorblog.jp,ldblog.jp,dreamlog.jp,publog.jp,livedoor.biz,diary.to,weblog.to,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,gger.jp,golog.jp,liblo.jp,myjournal.jp,mynikki.jp,xxxblog.jp,youblog.jp,2chblog.jp,teamblog.jp,corpblog.jp,officeblog.jp,storeblog.jp,cafeblog.jp,officialblog.jp,techblog.jp,blog.livedoor.jp##.linelive-ranking
@@ -228,6 +228,9 @@ blog.esuteru.com##.rss_area
 blog.esuteru.com##.sns_follow_area
 blog.esuteru.com##.category_area
 blog.esuteru.com##.foot_link_area
+!------------ 妹はVIPPER http://vipsister23.com/
+vipsister23.com##blockquote
+vipsister23.com##.related-articles
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ はてなブログ・ダイアリー
 !------------ はてなブログ共通
@@ -285,6 +288,20 @@ anond.hatelabo.jp$$div[id="ad-overlay-bottom-"]
 anond.hatelabo.jp$$a[class="hatena-bookmark-button"]
 anond.hatelabo.jp$$p[class="share-button"]
 anond.hatelabo.jp$$img[class="icon"][onload="if (this.naturalWidth === 1) this.parentNode.style.display = 'none'"][src="//b.hatena.ne.jp/entry/image/http"]
+!■■■■■■■■■■■■■
+!■■■■■■■■■■■■■ WordPressブログ
+!------------ 1000mg http://1000mg.jp/
+1000mg.jp##.textwidget
+1000mg.jp##.tab_change
+1000mg.jp/wp-content/themes/bones_custom/images/low_contrast_linen.png$image
+!------------ 海洋国防記 http://kaito1412.wp-x.jp/
+kaito1412.wp-x.jp###content-sidebar
+kaito1412.wp-x.jp###dynamic-to-top
+kaito1412.wp-x.jp##.master-post-advert
+kaito1412.wp-x.jp###supplementary
+kaito1412.wp-x.jp###secondary
+kaito1412.wp-x.jp##.wp_rp.related_post
+kaito1412.wp-x.jp##.related_post_title
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ その他のブログ
 !------------ LINEブログ https://lineblog.me/
@@ -418,31 +435,16 @@ togetter.com##li:has(a[data-ga*="inbound_promo"])
 togetter.com##.comment_popular
 togetter.com$$div[class="pr_link_box"]
 togetter.com$$a[href="/redirect/appInstall"]
-!------------ 妹はVIPPER http://vipsister23.com/
-vipsister23.com##blockquote
-vipsister23.com##.related-articles
 !------------ アニゲー速報 http://www.anige-sokuhouvip.com/
 www.anige-sokuhouvip.com##.rerat2
 www.anige-sokuhouvip.com##.t_c
 www.anige-sokuhouvip.com###modernentryrank
 !------------ やらおん！ http://yaraon-blog.com/
 yaraon-blog.com##.sns
-!------------ 1000mg http://1000mg.jp/
-1000mg.jp##.textwidget
-1000mg.jp##.tab_change
-1000mg.jp/wp-content/themes/bones_custom/images/low_contrast_linen.png$image
 !------------ 暇人／(^o^)＼速報 http://himasoku1123.blogspot.jp/
 himasoku1123.blogspot.jp###navbar
 himasoku1123.blogspot.jp##.column-left-inner > aside
 himasoku1123.blogspot.jp##.columns-2.section-columns
-!------------ 海洋国防記 http://kaito1412.wp-x.jp/
-kaito1412.wp-x.jp###content-sidebar
-kaito1412.wp-x.jp###dynamic-to-top
-kaito1412.wp-x.jp##.master-post-advert
-kaito1412.wp-x.jp###supplementary
-kaito1412.wp-x.jp###secondary
-kaito1412.wp-x.jp##.wp_rp.related_post
-kaito1412.wp-x.jp##.related_post_title
 !------------ netgeek http://netgeek.biz/
 ||netgeek.biz/wp-content/uploads/2014/03/tileable_wood_texture2.png$image
 netgeek.biz##.wptouch-showcase
@@ -457,7 +459,7 @@ netgeek.biz##.rw-ui-mobile-wrapper
 netgeek.biz###___ytsubscribe_0
 netgeek.biz###related
 !■■■■■■■■■■■■■
-!■■■■■■■■■■■■■ SNS
+!■■■■■■■■■■■■■ SNS（SNSウェブサイト閲覧時）
 !------------ Twitter https://mobile.twitter.com/
 mobile.twitter.com##._1363jyKz
 mobile.twitter.com##._7kIt4uMb
