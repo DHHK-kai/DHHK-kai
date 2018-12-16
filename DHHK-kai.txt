@@ -36,6 +36,9 @@
 !■■■■■■■■■■■■■ livedoorブログ
 !------------ 共通 http://blog.livedoor.com/ http://blog.jp/
 !livedoor.blog,matomelotte.com,inutomo11.com,npb-news.com,central-dragons.com,onjsummarynet.net,wasidukami.club,onjmix.net,toralucky.fun,toramoukoseiha.com,nandemo-uketori.com,kokofire.info
+,blog.esuteru.com,
+
+
 livedoor.blog,ka-soku.com,www.tomabechi.jp,himasoku.com,hosyusokuhou.jp,yurukuyaru.com,www.akb48matomemory.com,www.scienceplus2ch.com,military38.com,chaos2ch.com,labaq.com,gehasoku.com,www.otonarisoku.com,www.all-nationz.com,www.gamecast-blog.com,zapzapjp.com,jin115.com,hamusoku.com,karapaia.com,blog.jp,doorblog.jp,ldblog.jp,dreamlog.jp,publog.jp,livedoor.biz,diary.to,weblog.to,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,gger.jp,golog.jp,liblo.jp,myjournal.jp,mynikki.jp,xxxblog.jp,youblog.jp,2chblog.jp,teamblog.jp,corpblog.jp,officeblog.jp,storeblog.jp,cafeblog.jp,officialblog.jp,techblog.jp,blog.livedoor.jp##.linelive-ranking
 livedoor.blog,ka-soku.com,www.tomabechi.jp,himasoku.com,hosyusokuhou.jp,yurukuyaru.com,www.akb48matomemory.com,www.scienceplus2ch.com,military38.com,chaos2ch.com,labaq.com,gehasoku.com,www.otonarisoku.com,www.all-nationz.com,www.gamecast-blog.com,zapzapjp.com,jin115.com,hamusoku.com,karapaia.com,blog.jp,doorblog.jp,ldblog.jp,dreamlog.jp,publog.jp,livedoor.biz,diary.to,weblog.to,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,gger.jp,golog.jp,liblo.jp,myjournal.jp,mynikki.jp,xxxblog.jp,youblog.jp,2chblog.jp,teamblog.jp,corpblog.jp,officeblog.jp,storeblog.jp,cafeblog.jp,officialblog.jp,techblog.jp,blog.livedoor.jp##.footer-addline-banner
 livedoor.blog,ka-soku.com,www.tomabechi.jp,himasoku.com,hosyusokuhou.jp,yurukuyaru.com,www.akb48matomemory.com,www.scienceplus2ch.com,military38.com,chaos2ch.com,labaq.com,gehasoku.com,www.otonarisoku.com,www.all-nationz.com,www.gamecast-blog.com,zapzapjp.com,jin115.com,hamusoku.com,karapaia.com,blog.jp,doorblog.jp,ldblog.jp,dreamlog.jp,publog.jp,livedoor.biz,diary.to,weblog.to,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,gger.jp,golog.jp,liblo.jp,myjournal.jp,mynikki.jp,xxxblog.jp,youblog.jp,2chblog.jp,teamblog.jp,corpblog.jp,officeblog.jp,storeblog.jp,cafeblog.jp,officialblog.jp,techblog.jp,blog.livedoor.jp##.footer-ranking
@@ -219,6 +222,12 @@ hosyusokuhou.jp$$script[src="/rss/"]
 hosyusokuhou.jp$$div[class="abox"]
 hosyusokuhou.jp$$p[wildcard="*不適切な用語*禁止*スパム*禁止ワード*"]
 hosyusokuhou.jp$$div[class="aban"]
+!------------ はちま起稿 http://blog.esuteru.com/
+blog.esuteru.com##.ranking_article_area
+blog.esuteru.com##.rss_area
+blog.esuteru.com##.sns_follow_area
+blog.esuteru.com##.category_area
+blog.esuteru.com##.foot_link_area
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ はてなブログ・ダイアリー
 !------------ はてなブログ共通
@@ -276,6 +285,106 @@ anond.hatelabo.jp$$div[id="ad-overlay-bottom-"]
 anond.hatelabo.jp$$a[class="hatena-bookmark-button"]
 anond.hatelabo.jp$$p[class="share-button"]
 anond.hatelabo.jp$$img[class="icon"][onload="if (this.naturalWidth === 1) this.parentNode.style.display = 'none'"][src="//b.hatena.ne.jp/entry/image/http"]
+!■■■■■■■■■■■■■
+!■■■■■■■■■■■■■ その他のブログ
+!------------ LINEブログ https://lineblog.me/
+lineblog.me###fixed-profile
+lineblog.me##.btn-line-add-inner
+lineblog.me##.lineblog-ranking
+lineblog.me##.lineblog-topics
+lineblog.me##.plugin-follow-author
+lineblog.me##.global-header
+lineblog.me##.content > div:nth-of-type(2)
+!------------ ココログ http://app.m-cocolog.jp/
+app.m-cocolog.jp##.list-ranking
+app.m-cocolog.jp##.list-archives
+app.m-cocolog.jp##.archive-header
+!------------ 楽天ブログ https://plaza.rakuten.co.jp/
+plaza.rakuten.co.jp##.fixedPager
+plaza.rakuten.co.jp##.jscroll-added
+plaza.rakuten.co.jp##.linkListBtn
+plaza.rakuten.co.jp##.sBtn
+!------------ エキサイトブログ http://exblog.jp/
+exblog.jp##.side-pager-next
+exblog.jp##.side-pager-prev
+exblog.jp###exciteServices
+exblog.jp###blogTools
+exblog.jp##.genreRanking
+exblog.jp###blogMenu
+exblog.jp###headAdBanner
+exblog.jp###postReply
+exblog.jp##.share_modules
+exblog.jp###bbsPreview
+exblog.jp##.profile-share
+!------------ ヤフーブログ https://blogs.yahoo.co.jp/
+blogs.yahoo.co.jp###header
+blogs.yahoo.co.jp###tmlnlst
+blogs.yahoo.co.jp##.footerBlogMenu
+blogs.yahoo.co.jp##.addFavoriteLarge
+blogs.yahoo.co.jp##a[href*="https://rdsig.yahoo.co.jp/fortune/special/"]
+!------------ gooブログ http://blog.goo.ne.jp/
+blog.goo.ne.jp##.guide
+blog.goo.ne.jp##.global_navigation
+blog.goo.ne.jp##.ima_topics_ranking
+blog.goo.ne.jp##.user_unordered_list
+blog.goo.ne.jp##.relation_entry
+!------------ BIGLOBEウェブリブログ http://s.webry.info/
+s.webry.info###social-btn
+s.webry.info##.sns-btn
+s.webry.info###archives > .akdorFitToWidth
+s.webry.info##.imglist
+s.webry.info###container > .akdorFitToWidth
+s.webry.info###news_parts
+s.webry.info###expmenu-biglobe_news-row
+!------------ Seesaaブログ共通 http://blog.seesaa.jp/
+www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###button
+www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net##.box, .mb10
+www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###google_translate_element
+www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net##.w350
+www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net##.navi
+www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###links-left
+www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###links
+www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###footer
+!------------ news-us http://www.news-us.jp/
+||www.news-us.org/html/rss.html$subdocument
+||img.news-us.jp/bg_bd.gif$image
+www.news-us.jp##.ad728
+www.news-us.jp##.box
+www.news-us.jp##.box728
+www.news-us.jp##iframe[src*="www.news-us.org"]
+!------------ ブロマガ共通 http://sp.ch.nicovideo.jp/portal/blomaga/
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###smartBanner
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###appBanner
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###blog_admission
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###campaignBanner
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###matomeSiteHeader
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.section-rss
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.adsbox
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.container > .section-box
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.blogparts
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.social-list
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###rss
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###rss2
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.adc_g_top1
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.adc_g_ko_sec
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###PopularArticle
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###LatestArticle
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###new_article
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.adc_g_ko
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.gdsp_bt
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.SP-News
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###rss1
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###social_link
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###footerContents
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##div:contains(スポンサード リンク)
+!------------ FC2ブログ共通 https://blog.fc2.com/
+blog130.fc2.com,blog117.fc2.com,blog.fc2.com###rss_antena
+blog130.fc2.com,blog117.fc2.com,blog.fc2.com##.im_headerad
+blog130.fc2.com,blog117.fc2.com,blog.fc2.com##.socialbox
+blog130.fc2.com,blog117.fc2.com,blog.fc2.com###rtrank_wrap
+blog130.fc2.com,blog117.fc2.com,blog.fc2.com###sidemenu1
+blog130.fc2.com,blog117.fc2.com,blog.fc2.com###sh_fc2blogheadbar
+blog130.fc2.com,blog117.fc2.com,blog.fc2.com##.AdContainer
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ SNS
 !------------ Twitter https://mobile.twitter.com/
@@ -767,12 +876,6 @@ togetter.com##li:has(a[data-ga*="inbound_promo"])
 togetter.com##.comment_popular
 togetter.com$$div[class="pr_link_box"]
 togetter.com$$a[href="/redirect/appInstall"]
-!------------ はちま起稿 http://blog.esuteru.com/
-blog.esuteru.com##.ranking_article_area
-blog.esuteru.com##.rss_area
-blog.esuteru.com##.sns_follow_area
-blog.esuteru.com##.category_area
-blog.esuteru.com##.foot_link_area
 !------------ 妹はVIPPER http://vipsister23.com/
 vipsister23.com##blockquote
 vipsister23.com##.related-articles
@@ -1305,106 +1408,6 @@ news.livedoor.com$$div[class="ads-google"]
 news.livedoor.com$$div[class="header-ad"]
 news.livedoor.com$$div[id="article-outer-link"]
 news.livedoor.com$$div[class="article-keyword"]
-!■■■■■■■■■■■■■
-!■■■■■■■■■■■■■ ブログサービス
-!------------ LINEブログ https://lineblog.me/
-lineblog.me###fixed-profile
-lineblog.me##.btn-line-add-inner
-lineblog.me##.lineblog-ranking
-lineblog.me##.lineblog-topics
-lineblog.me##.plugin-follow-author
-lineblog.me##.global-header
-lineblog.me##.content > div:nth-of-type(2)
-!------------ ココログ http://app.m-cocolog.jp/
-app.m-cocolog.jp##.list-ranking
-app.m-cocolog.jp##.list-archives
-app.m-cocolog.jp##.archive-header
-!------------ 楽天ブログ https://plaza.rakuten.co.jp/
-plaza.rakuten.co.jp##.fixedPager
-plaza.rakuten.co.jp##.jscroll-added
-plaza.rakuten.co.jp##.linkListBtn
-plaza.rakuten.co.jp##.sBtn
-!------------ エキサイトブログ http://exblog.jp/
-exblog.jp##.side-pager-next
-exblog.jp##.side-pager-prev
-exblog.jp###exciteServices
-exblog.jp###blogTools
-exblog.jp##.genreRanking
-exblog.jp###blogMenu
-exblog.jp###headAdBanner
-exblog.jp###postReply
-exblog.jp##.share_modules
-exblog.jp###bbsPreview
-exblog.jp##.profile-share
-!------------ ヤフーブログ https://blogs.yahoo.co.jp/
-blogs.yahoo.co.jp###header
-blogs.yahoo.co.jp###tmlnlst
-blogs.yahoo.co.jp##.footerBlogMenu
-blogs.yahoo.co.jp##.addFavoriteLarge
-blogs.yahoo.co.jp##a[href*="https://rdsig.yahoo.co.jp/fortune/special/"]
-!------------ gooブログ http://blog.goo.ne.jp/
-blog.goo.ne.jp##.guide
-blog.goo.ne.jp##.global_navigation
-blog.goo.ne.jp##.ima_topics_ranking
-blog.goo.ne.jp##.user_unordered_list
-blog.goo.ne.jp##.relation_entry
-!------------ BIGLOBEウェブリブログ http://s.webry.info/
-s.webry.info###social-btn
-s.webry.info##.sns-btn
-s.webry.info###archives > .akdorFitToWidth
-s.webry.info##.imglist
-s.webry.info###container > .akdorFitToWidth
-s.webry.info###news_parts
-s.webry.info###expmenu-biglobe_news-row
-!------------ Seesaaブログ共通 http://blog.seesaa.jp/
-www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###button
-www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net##.box, .mb10
-www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###google_translate_element
-www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net##.w350
-www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net##.navi
-www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###links-left
-www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###links
-www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###footer
-!------------ news-us http://www.news-us.jp/
-||www.news-us.org/html/rss.html$subdocument
-||img.news-us.jp/bg_bd.gif$image
-www.news-us.jp##.ad728
-www.news-us.jp##.box
-www.news-us.jp##.box728
-www.news-us.jp##iframe[src*="www.news-us.org"]
-!------------ ブロマガ共通 http://sp.ch.nicovideo.jp/portal/blomaga/
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###smartBanner
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###appBanner
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###blog_admission
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###campaignBanner
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###matomeSiteHeader
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.section-rss
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.adsbox
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.container > .section-box
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.blogparts
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.social-list
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###rss
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###rss2
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.adc_g_top1
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.adc_g_ko_sec
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###PopularArticle
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###LatestArticle
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###new_article
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.adc_g_ko
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.gdsp_bt
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.SP-News
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###rss1
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###social_link
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###footerContents
-alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##div:contains(スポンサード リンク)
-!------------ FC2ブログ共通 https://blog.fc2.com/
-blog130.fc2.com,blog117.fc2.com,blog.fc2.com###rss_antena
-blog130.fc2.com,blog117.fc2.com,blog.fc2.com##.im_headerad
-blog130.fc2.com,blog117.fc2.com,blog.fc2.com##.socialbox
-blog130.fc2.com,blog117.fc2.com,blog.fc2.com###rtrank_wrap
-blog130.fc2.com,blog117.fc2.com,blog.fc2.com###sidemenu1
-blog130.fc2.com,blog117.fc2.com,blog.fc2.com###sh_fc2blogheadbar
-blog130.fc2.com,blog117.fc2.com,blog.fc2.com##.AdContainer
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ その他
 !------------ goo辞書 - 国語・英語・四字熟語・中国語のオンライン辞書 https://dictionary.goo.ne.jp/
