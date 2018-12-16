@@ -458,6 +458,8 @@ m.imgur.com##.AppBanner
 !------------ 爆サイ.com -日本最大級のﾛｰｶﾙｺﾐｭﾆﾃｨ掲示板 http://bakusai.com/
 bakusai.com###wordList
 bakusai.com##.newsTicker
+!------------ teacup https://www.teacup.com/
+||teacup.com/cgi-bin/Count.cgi^
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ IT
 !------------ Impress Watch http://watch.impress.co.jp/
