@@ -302,6 +302,21 @@ kaito1412.wp-x.jp###supplementary
 kaito1412.wp-x.jp###secondary
 kaito1412.wp-x.jp##.wp_rp.related_post
 kaito1412.wp-x.jp##.related_post_title
+!------------ やらおん！ http://yaraon-blog.com/
+yaraon-blog.com##.sns
+!------------ netgeek http://netgeek.biz/
+||netgeek.biz/wp-content/uploads/2014/03/tileable_wood_texture2.png$image
+netgeek.biz##.wptouch-showcase
+netgeek.biz##.related-posts
+netgeek.biz##.footer
+netgeek.biz###sidebar
+netgeek.biz##.top
+netgeek.biz##.menucont
+netgeek.biz##.rw-rating-table
+netgeek.biz##.share
+netgeek.biz##.rw-ui-mobile-wrapper
+netgeek.biz###___ytsubscribe_0
+netgeek.biz###related
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ その他のブログ
 !------------ LINEブログ https://lineblog.me/
@@ -402,6 +417,10 @@ blog130.fc2.com,blog117.fc2.com,blog.fc2.com###rtrank_wrap
 blog130.fc2.com,blog117.fc2.com,blog.fc2.com###sidemenu1
 blog130.fc2.com,blog117.fc2.com,blog.fc2.com###sh_fc2blogheadbar
 blog130.fc2.com,blog117.fc2.com,blog.fc2.com##.AdContainer
+!------------ blogger https://www.blogger.com/
+blogspot.jp###navbar
+blogspot.jp##.column-left-inner > aside
+blogspot.jp##.columns-2.section-columns
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ まとめ系その他
 !------------ NAVER まとめ https://matome.naver.jp/m/
@@ -439,25 +458,6 @@ togetter.com$$a[href="/redirect/appInstall"]
 www.anige-sokuhouvip.com##.rerat2
 www.anige-sokuhouvip.com##.t_c
 www.anige-sokuhouvip.com###modernentryrank
-!------------ やらおん！ http://yaraon-blog.com/
-yaraon-blog.com##.sns
-!------------ 暇人／(^o^)＼速報 http://himasoku1123.blogspot.jp/
-himasoku1123.blogspot.jp###navbar
-himasoku1123.blogspot.jp##.column-left-inner > aside
-himasoku1123.blogspot.jp##.columns-2.section-columns
-!------------ netgeek http://netgeek.biz/
-||netgeek.biz/wp-content/uploads/2014/03/tileable_wood_texture2.png$image
-netgeek.biz##.wptouch-showcase
-netgeek.biz##.related-posts
-netgeek.biz##.footer
-netgeek.biz###sidebar
-netgeek.biz##.top
-netgeek.biz##.menucont
-netgeek.biz##.rw-rating-table
-netgeek.biz##.share
-netgeek.biz##.rw-ui-mobile-wrapper
-netgeek.biz###___ytsubscribe_0
-netgeek.biz###related
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ SNS（SNSウェブサイト閲覧時）
 !------------ Twitter https://mobile.twitter.com/
