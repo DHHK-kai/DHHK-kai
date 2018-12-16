@@ -417,10 +417,14 @@ blog130.fc2.com,blog117.fc2.com,blog.fc2.com###rtrank_wrap
 blog130.fc2.com,blog117.fc2.com,blog.fc2.com###sidemenu1
 blog130.fc2.com,blog117.fc2.com,blog.fc2.com###sh_fc2blogheadbar
 blog130.fc2.com,blog117.fc2.com,blog.fc2.com##.AdContainer
+!------------ アニゲー速報 http://www.anige-sokuhouvip.com/
+www.anige-sokuhouvip.com##.rerat2
+www.anige-sokuhouvip.com##.t_c
+www.anige-sokuhouvip.com###modernentryrank
 !------------ blogger https://www.blogger.com/
-blogspot.jp###navbar
-blogspot.jp##.column-left-inner > aside
-blogspot.jp##.columns-2.section-columns
+blogspot.jp,blogspot.com###navbar
+blogspot.jp,blogspot.com##.column-left-inner > aside
+blogspot.jp,blogspot.com##.columns-2.section-columns
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ まとめ系その他
 !------------ NAVER まとめ https://matome.naver.jp/m/
@@ -454,10 +458,6 @@ togetter.com##li:has(a[data-ga*="inbound_promo"])
 togetter.com##.comment_popular
 togetter.com$$div[class="pr_link_box"]
 togetter.com$$a[href="/redirect/appInstall"]
-!------------ アニゲー速報 http://www.anige-sokuhouvip.com/
-www.anige-sokuhouvip.com##.rerat2
-www.anige-sokuhouvip.com##.t_c
-www.anige-sokuhouvip.com###modernentryrank
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ SNS（SNSウェブサイト閲覧時）
 !------------ Twitter https://mobile.twitter.com/
