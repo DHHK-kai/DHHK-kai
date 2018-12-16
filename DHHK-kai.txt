@@ -386,6 +386,77 @@ blog130.fc2.com,blog117.fc2.com,blog.fc2.com###sidemenu1
 blog130.fc2.com,blog117.fc2.com,blog.fc2.com###sh_fc2blogheadbar
 blog130.fc2.com,blog117.fc2.com,blog.fc2.com##.AdContainer
 !■■■■■■■■■■■■■
+!■■■■■■■■■■■■■ まとめ系その他
+!------------ NAVER まとめ https://matome.naver.jp/m/
+matome.naver.jp##section
+matome.naver.jp##aside
+!------------ Togetter https://togetter.com/
+||s.togetter.com/static/1.14.24/web/img/banner/hatena_banner.png$image
+||s.togetter.com/static/1.14.24/web/img/banner/inofes_banner.png$image
+||s.togetter.com/static/1.14.24/web/img/banner/fgo0_banner.png$image
+togetter.com##.favorite_user_box
+togetter.com##.feedback_box
+togetter.com##.app-dl
+togetter.com##.list_recommend
+togetter.com##.side_account_box
+togetter.com##.editor_recommend
+togetter.com##.togech_box
+togetter.com##.download_header
+togetter.com###comment_box > .list_box
+togetter.com##.social_follow_box
+togetter.com###right_wrap_middle
+togetter.com###gototop
+togetter.com##.favorite_state
+togetter.com##.thumb_list_box
+togetter.com##.side_banner_box
+togetter.com##.check_feed
+togetter.com##.carouselbanner
+togetter.com##.lite_share
+togetter.com##.side_tag_box
+togetter.com##.bottom_category_box
+togetter.com##li:has(a[data-ga*="inbound_promo"])
+togetter.com##.comment_popular
+togetter.com$$div[class="pr_link_box"]
+togetter.com$$a[href="/redirect/appInstall"]
+!------------ 妹はVIPPER http://vipsister23.com/
+vipsister23.com##blockquote
+vipsister23.com##.related-articles
+!------------ アニゲー速報 http://www.anige-sokuhouvip.com/
+www.anige-sokuhouvip.com##.rerat2
+www.anige-sokuhouvip.com##.t_c
+www.anige-sokuhouvip.com###modernentryrank
+!------------ やらおん！ http://yaraon-blog.com/
+yaraon-blog.com##.sns
+!------------ 1000mg http://1000mg.jp/
+1000mg.jp##.textwidget
+1000mg.jp##.tab_change
+1000mg.jp/wp-content/themes/bones_custom/images/low_contrast_linen.png$image
+!------------ 暇人／(^o^)＼速報 http://himasoku1123.blogspot.jp/
+himasoku1123.blogspot.jp###navbar
+himasoku1123.blogspot.jp##.column-left-inner > aside
+himasoku1123.blogspot.jp##.columns-2.section-columns
+!------------ 海洋国防記 http://kaito1412.wp-x.jp/
+kaito1412.wp-x.jp###content-sidebar
+kaito1412.wp-x.jp###dynamic-to-top
+kaito1412.wp-x.jp##.master-post-advert
+kaito1412.wp-x.jp###supplementary
+kaito1412.wp-x.jp###secondary
+kaito1412.wp-x.jp##.wp_rp.related_post
+kaito1412.wp-x.jp##.related_post_title
+!------------ netgeek http://netgeek.biz/
+||netgeek.biz/wp-content/uploads/2014/03/tileable_wood_texture2.png$image
+netgeek.biz##.wptouch-showcase
+netgeek.biz##.related-posts
+netgeek.biz##.footer
+netgeek.biz###sidebar
+netgeek.biz##.top
+netgeek.biz##.menucont
+netgeek.biz##.rw-rating-table
+netgeek.biz##.share
+netgeek.biz##.rw-ui-mobile-wrapper
+netgeek.biz###___ytsubscribe_0
+netgeek.biz###related
+!■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ SNS
 !------------ Twitter https://mobile.twitter.com/
 mobile.twitter.com##._1363jyKz
@@ -843,77 +914,6 @@ yomitaku.com###page-top
 yomitaku.com##.widget_categories
 yomitaku.com###g_nav
 yomitaku.com###sidebar1!
-!■■■■■■■■■■■■■
-!■■■■■■■■■■■■■ まとめ系その他
-!------------ NAVER まとめ https://matome.naver.jp/m/
-matome.naver.jp##section
-matome.naver.jp##aside
-!------------ Togetter https://togetter.com/
-||s.togetter.com/static/1.14.24/web/img/banner/hatena_banner.png$image
-||s.togetter.com/static/1.14.24/web/img/banner/inofes_banner.png$image
-||s.togetter.com/static/1.14.24/web/img/banner/fgo0_banner.png$image
-togetter.com##.favorite_user_box
-togetter.com##.feedback_box
-togetter.com##.app-dl
-togetter.com##.list_recommend
-togetter.com##.side_account_box
-togetter.com##.editor_recommend
-togetter.com##.togech_box
-togetter.com##.download_header
-togetter.com###comment_box > .list_box
-togetter.com##.social_follow_box
-togetter.com###right_wrap_middle
-togetter.com###gototop
-togetter.com##.favorite_state
-togetter.com##.thumb_list_box
-togetter.com##.side_banner_box
-togetter.com##.check_feed
-togetter.com##.carouselbanner
-togetter.com##.lite_share
-togetter.com##.side_tag_box
-togetter.com##.bottom_category_box
-togetter.com##li:has(a[data-ga*="inbound_promo"])
-togetter.com##.comment_popular
-togetter.com$$div[class="pr_link_box"]
-togetter.com$$a[href="/redirect/appInstall"]
-!------------ 妹はVIPPER http://vipsister23.com/
-vipsister23.com##blockquote
-vipsister23.com##.related-articles
-!------------ アニゲー速報 http://www.anige-sokuhouvip.com/
-www.anige-sokuhouvip.com##.rerat2
-www.anige-sokuhouvip.com##.t_c
-www.anige-sokuhouvip.com###modernentryrank
-!------------ やらおん！ http://yaraon-blog.com/
-yaraon-blog.com##.sns
-!------------ 1000mg http://1000mg.jp/
-1000mg.jp##.textwidget
-1000mg.jp##.tab_change
-1000mg.jp/wp-content/themes/bones_custom/images/low_contrast_linen.png$image
-!------------ 暇人／(^o^)＼速報 http://himasoku1123.blogspot.jp/
-himasoku1123.blogspot.jp###navbar
-himasoku1123.blogspot.jp##.column-left-inner > aside
-himasoku1123.blogspot.jp##.columns-2.section-columns
-!------------ 海洋国防記 http://kaito1412.wp-x.jp/
-kaito1412.wp-x.jp###content-sidebar
-kaito1412.wp-x.jp###dynamic-to-top
-kaito1412.wp-x.jp##.master-post-advert
-kaito1412.wp-x.jp###supplementary
-kaito1412.wp-x.jp###secondary
-kaito1412.wp-x.jp##.wp_rp.related_post
-kaito1412.wp-x.jp##.related_post_title
-!------------ netgeek http://netgeek.biz/
-||netgeek.biz/wp-content/uploads/2014/03/tileable_wood_texture2.png$image
-netgeek.biz##.wptouch-showcase
-netgeek.biz##.related-posts
-netgeek.biz##.footer
-netgeek.biz###sidebar
-netgeek.biz##.top
-netgeek.biz##.menucont
-netgeek.biz##.rw-rating-table
-netgeek.biz##.share
-netgeek.biz##.rw-ui-mobile-wrapper
-netgeek.biz###___ytsubscribe_0
-netgeek.biz###related
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ 報道
 !------------ 時事ドットコム：時事通信社が運営するニュースサイト http://www.jiji.com/
