@@ -1469,6 +1469,4 @@ www.cyberagent.co.jp###totop
 www.cyberagent.co.jp##.sc_category
 www.cyberagent.co.jp##.sc_icons
 www.cyberagent.co.jp##.back_issues
-!------------ アプリワールド https://appli-world.jp/
-||appli-world.jp^
 !■■■■■■■■■■■■■
