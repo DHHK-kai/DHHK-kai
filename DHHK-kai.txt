@@ -230,63 +230,6 @@ blog.esuteru.com##.foot_link_area
 vipsister23.com##blockquote
 vipsister23.com##.related-articles
 !■■■■■■■■■■■■■
-!■■■■■■■■■■■■■ はてなブログ・ダイアリー
-!------------ はてなブログ共通
-||blog.hatena.ne.jp/*/*/subscribe/iframe$subdocument
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###globalheader-container
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###bottom-editarea > .section
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.footer-action-wrapper
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###under-pager-edit-area
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###bottom-editarea
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###box2
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.permalink
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.entry-footer
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.entry-header-html
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###entry-footer-secondary-modules
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.related-entry-container
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.hatena-module
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.customized-footer
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.entry-footer-html
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###lws_0
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.linkwithin_outer
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###quote-base
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp$$ins[class="adsbygoogle"]
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp$$div[id="footer-ad-rectangle"]
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp$$ul[data-brand="hatenablog"][wildcard="*li*a*href=*//staff.hatenablog.com/*はてなブログ開発ブログ*"]
-www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.hatena-module-profile
-!------------ 勝間和代が徹底的にマニアックな話をアップするブログ http://katsumakazuyo.hatenablog.com/
-katsumakazuyo.hatenablog.com$$div[id="top-editarea"][wildcard="*a*href=*//krs.bz/katsumaweb*"]
-!------------ はてなダイアリー http://d.hatena.ne.jp/
-||d.hatena.ne.jp/images/touch/header-button-menu@2x.png$image
-d.hatena.ne.jp###side-menu-overlay-container
-d.hatena.ne.jp###google_afc_top
-d.hatena.ne.jp###diary-user-sp-bottom-rectangle
-d.hatena.ne.jp###diary-sp-pager-rectangle
-d.hatena.ne.jp###recommended-feature-notification
-d.hatena.ne.jp##.guest-footer.box
-!------------ はてな匿名ダイアリー https://anond.hatelabo.jp/
-anond.hatelabo.jp$$script[src="//b.hatena.ne.jp/js/hatena_dfp"]
-anond.hatelabo.jp$$script[src="//b.st-hatena.com/js/bookmark_button.js"]
-anond.hatelabo.jp$$script[src="//widgets.outbrain.com/outbrain.js"]
-anond.hatelabo.jp$$script[src="/js/trackback.js"]
-anond.hatelabo.jp$$script[tag-content="adUnits"]
-anond.hatelabo.jp$$script[tag-content="//www.googletagmanager.com/gtm.js"]
-anond.hatelabo.jp$$script[tag-content="bookmark-comment-unit"]
-anond.hatelabo.jp$$noscript[tag-content="//www.googletagmanager.com/ns.html"]
-anond.hatelabo.jp$$div[class="ad-banner"]
-anond.hatelabo.jp$$a[class="tw-share-button"]
-anond.hatelabo.jp$$a[class="fb-share-button"]
-anond.hatelabo.jp$$a[class="comment-share"]
-anond.hatelabo.jp$$div[class="OUTBRAIN"]
-anond.hatelabo.jp$$div[id="bookmark-comment-unit"]
-anond.hatelabo.jp$$div[id="rectangle-trackback-bottom"]
-anond.hatelabo.jp$$div[class="hotentries-wrapper"]
-anond.hatelabo.jp$$div[id="hotentriesblock"]
-anond.hatelabo.jp$$div[id="ad-overlay-bottom-"]
-anond.hatelabo.jp$$a[class="hatena-bookmark-button"]
-anond.hatelabo.jp$$p[class="share-button"]
-anond.hatelabo.jp$$img[class="icon"][onload="if (this.naturalWidth === 1) this.parentNode.style.display = 'none'"][src="//b.hatena.ne.jp/entry/image/http"]
-!■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ WordPressブログ
 !------------ 1000mg http://1000mg.jp/
 1000mg.jp##.textwidget
@@ -317,6 +260,59 @@ netgeek.biz###___ytsubscribe_0
 netgeek.biz###related
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ その他のブログ
+!------------ はてなブログ
+||blog.hatena.ne.jp/*/*/subscribe/iframe$subdocument
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###globalheader-container
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###bottom-editarea > .section
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.footer-action-wrapper
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###under-pager-edit-area
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###bottom-editarea
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###box2
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.permalink
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.entry-footer
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.entry-header-html
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###entry-footer-secondary-modules
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.related-entry-container
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.hatena-module
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.customized-footer
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.entry-footer-html
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###lws_0
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.linkwithin_outer
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###quote-base
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp$$ins[class="adsbygoogle"]
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp$$div[id="footer-ad-rectangle"]
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp$$ul[data-brand="hatenablog"][wildcard="*li*a*href=*//staff.hatenablog.com/*はてなブログ開発ブログ*"]
+www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp##.hatena-module-profile
+!------------ はてなダイアリー http://d.hatena.ne.jp/
+||d.hatena.ne.jp/images/touch/header-button-menu@2x.png$image
+d.hatena.ne.jp###side-menu-overlay-container
+d.hatena.ne.jp###google_afc_top
+d.hatena.ne.jp###diary-user-sp-bottom-rectangle
+d.hatena.ne.jp###diary-sp-pager-rectangle
+d.hatena.ne.jp###recommended-feature-notification
+d.hatena.ne.jp##.guest-footer.box
+!------------ はてな匿名ダイアリー https://anond.hatelabo.jp/
+anond.hatelabo.jp$$script[src="//b.hatena.ne.jp/js/hatena_dfp"]
+anond.hatelabo.jp$$script[src="//b.st-hatena.com/js/bookmark_button.js"]
+anond.hatelabo.jp$$script[src="//widgets.outbrain.com/outbrain.js"]
+anond.hatelabo.jp$$script[src="/js/trackback.js"]
+anond.hatelabo.jp$$script[tag-content="adUnits"]
+anond.hatelabo.jp$$script[tag-content="//www.googletagmanager.com/gtm.js"]
+anond.hatelabo.jp$$script[tag-content="bookmark-comment-unit"]
+anond.hatelabo.jp$$noscript[tag-content="//www.googletagmanager.com/ns.html"]
+anond.hatelabo.jp$$div[class="ad-banner"]
+anond.hatelabo.jp$$a[class="tw-share-button"]
+anond.hatelabo.jp$$a[class="fb-share-button"]
+anond.hatelabo.jp$$a[class="comment-share"]
+anond.hatelabo.jp$$div[class="OUTBRAIN"]
+anond.hatelabo.jp$$div[id="bookmark-comment-unit"]
+anond.hatelabo.jp$$div[id="rectangle-trackback-bottom"]
+anond.hatelabo.jp$$div[class="hotentries-wrapper"]
+anond.hatelabo.jp$$div[id="hotentriesblock"]
+anond.hatelabo.jp$$div[id="ad-overlay-bottom-"]
+anond.hatelabo.jp$$a[class="hatena-bookmark-button"]
+anond.hatelabo.jp$$p[class="share-button"]
+anond.hatelabo.jp$$img[class="icon"][onload="if (this.naturalWidth === 1) this.parentNode.style.display = 'none'"][src="//b.hatena.ne.jp/entry/image/http"]
 !------------ LINEブログ https://lineblog.me/
 lineblog.me###fixed-profile
 lineblog.me##.btn-line-add-inner
@@ -370,7 +366,7 @@ s.webry.info###expmenu-biglobe_news-row
 blogspot.jp,blogspot.com###navbar
 blogspot.jp,blogspot.com##.column-left-inner > aside
 blogspot.jp,blogspot.com##.columns-2.section-columns
-!------------ Seesaaブログ共通 http://blog.seesaa.jp/
+!------------ Seesaaブログ http://blog.seesaa.jp/
 www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###button
 www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net##.box, .mb10
 www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###google_translate_element
@@ -379,7 +375,7 @@ www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.c
 www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###links-left
 www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###links
 www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###footer
-!------------ ブロマガ共通 http://sp.ch.nicovideo.jp/portal/blomaga/
+!------------ ブロマガ http://sp.ch.nicovideo.jp/portal/blomaga/
 alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###smartBanner
 alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###appBanner
 alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###blog_admission
@@ -404,7 +400,7 @@ alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###rss1
 alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###social_link
 alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###footerContents
 alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##div:contains(スポンサード リンク)
-!------------ FC2ブログ共通 https://blog.fc2.com/
+!------------ FC2ブログ https://blog.fc2.com/
 anige-sokuhouvip.com,blog130.fc2.com,blog117.fc2.com,blog.fc2.com###rss_antena
 anige-sokuhouvip.com,blog130.fc2.com,blog117.fc2.com,blog.fc2.com##.im_headerad
 anige-sokuhouvip.com,blog130.fc2.com,blog117.fc2.com,blog.fc2.com##.socialbox
