@@ -811,7 +811,6 @@ originalnews.nico##.gaTrackEvent
 rocketnews24.com##.post-misc
 rocketnews24.com###sub-content
 rocketnews24.com###secondary
-rocketnews24.com##header
 rocketnews24.com##footer
 rocketnews24.com###page-nav
 rocketnews24.com###related-posts
