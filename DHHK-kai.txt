@@ -304,13 +304,6 @@ kaito1412.wp-x.jp##.wp_rp.related_post
 kaito1412.wp-x.jp##.related_post_title
 !------------ やらおん！ http://yaraon-blog.com/
 yaraon-blog.com##.sns
-!------------ news-us http://news-us.org/
-||news-us.org/html/rss.html$subdocument
-||img.news-us.org/bg_bd.gif$image
-news-us.org##.ad728
-news-us.org##.box
-news-us.org##.box728
-news-us.org##iframe[src*="www.news-us.org"]
 !------------ netgeek http://netgeek.biz/
 ||netgeek.biz/wp-content/uploads/2014/03/tileable_wood_texture2.png$image
 netgeek.biz##.wptouch-showcase
@@ -421,10 +414,6 @@ blog130.fc2.com,blog117.fc2.com,blog.fc2.com###rtrank_wrap
 blog130.fc2.com,blog117.fc2.com,blog.fc2.com###sidemenu1
 blog130.fc2.com,blog117.fc2.com,blog.fc2.com###sh_fc2blogheadbar
 blog130.fc2.com,blog117.fc2.com,blog.fc2.com##.AdContainer
-!------------ アニゲー速報 http://www.anige-sokuhouvip.com/
-www.anige-sokuhouvip.com##.rerat2
-www.anige-sokuhouvip.com##.t_c
-www.anige-sokuhouvip.com###modernentryrank
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ まとめ系その他
 !------------ NAVER まとめ https://matome.naver.jp/m/
