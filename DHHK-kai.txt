@@ -1,6 +1,6 @@
 ! Title: DHHKフィルター改
-! Version: 2018-12-05
-! Homepage: https://egg.5ch.net/android/
+! Version: 2018-12-16
+! Homepage: https://wikiwiki.jp/nanj-adguard/
 ! License: CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
 !
 ! 【概要】
@@ -35,6 +35,7 @@
 !■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ livedoorブログ
 !------------ 共通 http://blog.livedoor.com/ http://blog.jp/
+!livedoor.blog,matomelotte.com,inutomo11.com,npb-news.com,central-dragons.com,onjsummarynet.net,wasidukami.club,onjmix.net,toralucky.fun,toramoukoseiha.com,nandemo-uketori.com,kokofire.info
 livedoor.blog,ka-soku.com,www.tomabechi.jp,himasoku.com,hosyusokuhou.jp,yurukuyaru.com,www.akb48matomemory.com,www.scienceplus2ch.com,military38.com,chaos2ch.com,labaq.com,gehasoku.com,www.otonarisoku.com,www.all-nationz.com,www.gamecast-blog.com,zapzapjp.com,jin115.com,hamusoku.com,karapaia.com,blog.jp,doorblog.jp,ldblog.jp,dreamlog.jp,publog.jp,livedoor.biz,diary.to,weblog.to,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,gger.jp,golog.jp,liblo.jp,myjournal.jp,mynikki.jp,xxxblog.jp,youblog.jp,2chblog.jp,teamblog.jp,corpblog.jp,officeblog.jp,storeblog.jp,cafeblog.jp,officialblog.jp,techblog.jp,blog.livedoor.jp##.linelive-ranking
 livedoor.blog,ka-soku.com,www.tomabechi.jp,himasoku.com,hosyusokuhou.jp,yurukuyaru.com,www.akb48matomemory.com,www.scienceplus2ch.com,military38.com,chaos2ch.com,labaq.com,gehasoku.com,www.otonarisoku.com,www.all-nationz.com,www.gamecast-blog.com,zapzapjp.com,jin115.com,hamusoku.com,karapaia.com,blog.jp,doorblog.jp,ldblog.jp,dreamlog.jp,publog.jp,livedoor.biz,diary.to,weblog.to,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,gger.jp,golog.jp,liblo.jp,myjournal.jp,mynikki.jp,xxxblog.jp,youblog.jp,2chblog.jp,teamblog.jp,corpblog.jp,officeblog.jp,storeblog.jp,cafeblog.jp,officialblog.jp,techblog.jp,blog.livedoor.jp##.footer-addline-banner
 livedoor.blog,ka-soku.com,www.tomabechi.jp,himasoku.com,hosyusokuhou.jp,yurukuyaru.com,www.akb48matomemory.com,www.scienceplus2ch.com,military38.com,chaos2ch.com,labaq.com,gehasoku.com,www.otonarisoku.com,www.all-nationz.com,www.gamecast-blog.com,zapzapjp.com,jin115.com,hamusoku.com,karapaia.com,blog.jp,doorblog.jp,ldblog.jp,dreamlog.jp,publog.jp,livedoor.biz,diary.to,weblog.to,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,gger.jp,golog.jp,liblo.jp,myjournal.jp,mynikki.jp,xxxblog.jp,youblog.jp,2chblog.jp,teamblog.jp,corpblog.jp,officeblog.jp,storeblog.jp,cafeblog.jp,officialblog.jp,techblog.jp,blog.livedoor.jp##.footer-ranking
@@ -1471,3 +1472,4 @@ www.cyberagent.co.jp##.sc_category
 www.cyberagent.co.jp##.sc_icons
 www.cyberagent.co.jp##.back_issues
 !■■■■■■■■■■■■■
+!くたばれアフィカス
