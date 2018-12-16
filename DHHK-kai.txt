@@ -963,12 +963,18 @@ www.afpbb.com##.pr-text
 www.afpbb.com$$div[id="btn-open"]
 www.afpbb.com$$div[id="buttonAd"]
 !------------ ロイター  http://jp.reuters.com/
+||sope.prod.reuters.tv^$xmlhttprequest
 jp.reuters.com##.column2
 jp.reuters.com##.util-social
 jp.reuters.com##.footer
 jp.reuters.com###TopSection_Article
 jp.reuters.com###ArticleInDepth
 jp.reuters.com###follow-reuters
+jp.reuters.com##.lower-container
+jp.reuters.com##.StandardArticleBody_copyrightNotice
+jp.reuters.com##.StandardArticleBody_trustBadgeContainer
+jp.reuters.com##.ArticlePage_ad-wrap
+jp.reuters.com##div[data-template="footer"]
 jp.mobile.reuters.com##.mpu_ad
 !------------ BuzzFeed http://www.buzzfeed.com/
 ||img.buzzfeed.com/buzzfeed-static/static/images/mobile/ios-dudeyawn-promo.png$image
