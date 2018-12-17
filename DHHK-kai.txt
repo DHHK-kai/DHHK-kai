@@ -398,6 +398,7 @@ alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###rss1
 alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###social_link
 alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###footerContents
 alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##div:contains(スポンサード リンク)
+alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###matomeSiteFooter
 !------------ FC2ブログ https://blog.fc2.com/
 anige-sokuhouvip.com,blog130.fc2.com,blog117.fc2.com,blog.fc2.com###rss_antena
 anige-sokuhouvip.com,blog130.fc2.com,blog117.fc2.com,blog.fc2.com##.im_headerad
