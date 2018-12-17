@@ -365,6 +365,7 @@ blogspot.jp,blogspot.com###navbar
 blogspot.jp,blogspot.com##.column-left-inner > aside
 blogspot.jp,blogspot.com##.columns-2.section-columns
 !------------ Seesaaブログ http://blog.seesaa.jp/
+||blog.seesaa.jp/visual/spv3/common/js/footer.js
 gossip1.net,bigbangchannel.net,mildch.com,mindhack2ch.com,okutta.net,yabatanichannel.net,nanj-hero.com,matometre.net,nanj-short.net,majimanjisokuhou.com,okuribitoniki.com,www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###button
 gossip1.net,bigbangchannel.net,mildch.com,mindhack2ch.com,okutta.net,yabatanichannel.net,nanj-hero.com,matometre.net,nanj-short.net,majimanjisokuhou.com,okuribitoniki.com,www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net##.box, .mb10
 gossip1.net,bigbangchannel.net,mildch.com,mindhack2ch.com,okutta.net,yabatanichannel.net,nanj-hero.com,matometre.net,nanj-short.net,majimanjisokuhou.com,okuribitoniki.com,www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###google_translate_element
