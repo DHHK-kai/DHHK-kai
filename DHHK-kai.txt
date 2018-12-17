@@ -374,31 +374,31 @@ www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.c
 www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###links
 www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###footer
 !------------ ブロマガ http://sp.ch.nicovideo.jp/portal/blomaga/
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###smartBanner
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###appBanner
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###blog_admission
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###campaignBanner
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###matomeSiteHeader
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.section-rss
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.adsbox
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.container > .section-box
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.blogparts
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.social-list
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###rss
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###rss2
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.adc_g_top1
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.adc_g_ko_sec
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###PopularArticle
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###LatestArticle
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###new_article
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.adc_g_ko
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.gdsp_bt
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.SP-News
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###rss1
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###social_link
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###footerContents
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##div:contains(スポンサード リンク)
-mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###matomeSiteFooter
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###smartBanner
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###appBanner
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###blog_admission
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###campaignBanner
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###matomeSiteHeader
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.section-rss
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.adsbox
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.container > .section-box
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.blogparts
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.social-list
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###rss
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###rss2
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.adc_g_top1
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.adc_g_ko_sec
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###PopularArticle
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###LatestArticle
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###new_article
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.adc_g_ko
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.gdsp_bt
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##.SP-News
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###rss1
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###social_link
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###footerContents
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp##div:contains(スポンサード リンク)
+pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###matomeSiteFooter
 !------------ FC2ブログ https://blog.fc2.com/
 anige-sokuhouvip.com,blog130.fc2.com,blog117.fc2.com,blog.fc2.com###rss_antena
 anige-sokuhouvip.com,blog130.fc2.com,blog117.fc2.com,blog.fc2.com##.im_headerad
