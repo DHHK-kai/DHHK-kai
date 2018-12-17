@@ -365,14 +365,14 @@ blogspot.jp,blogspot.com###navbar
 blogspot.jp,blogspot.com##.column-left-inner > aside
 blogspot.jp,blogspot.com##.columns-2.section-columns
 !------------ Seesaaブログ http://blog.seesaa.jp/
-www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###button
-www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net##.box, .mb10
-www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###google_translate_element
-www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net##.w350
-www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net##.navi
-www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###links-left
-www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###links
-www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###footer
+gossip1.net,bigbangchannel.net,mildch.com,mindhack2ch.com,okutta.net,yabatanichannel.net,nanj-hero.com,matometre.net,nanj-short.net,majimanjisokuhou.com,okuribitoniki.com,www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###button
+gossip1.net,bigbangchannel.net,mildch.com,mindhack2ch.com,okutta.net,yabatanichannel.net,nanj-hero.com,matometre.net,nanj-short.net,majimanjisokuhou.com,okuribitoniki.com,www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net##.box, .mb10
+gossip1.net,bigbangchannel.net,mildch.com,mindhack2ch.com,okutta.net,yabatanichannel.net,nanj-hero.com,matometre.net,nanj-short.net,majimanjisokuhou.com,okuribitoniki.com,www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###google_translate_element
+gossip1.net,bigbangchannel.net,mildch.com,mindhack2ch.com,okutta.net,yabatanichannel.net,nanj-hero.com,matometre.net,nanj-short.net,majimanjisokuhou.com,okuribitoniki.com,www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net##.w350
+gossip1.net,bigbangchannel.net,mildch.com,mindhack2ch.com,okutta.net,yabatanichannel.net,nanj-hero.com,matometre.net,nanj-short.net,majimanjisokuhou.com,okuribitoniki.com,www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net##.navi
+gossip1.net,bigbangchannel.net,mildch.com,mindhack2ch.com,okutta.net,yabatanichannel.net,nanj-hero.com,matometre.net,nanj-short.net,majimanjisokuhou.com,okuribitoniki.com,www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###links-left
+gossip1.net,bigbangchannel.net,mildch.com,mindhack2ch.com,okutta.net,yabatanichannel.net,nanj-hero.com,matometre.net,nanj-short.net,majimanjisokuhou.com,okuribitoniki.com,www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###links
+gossip1.net,bigbangchannel.net,mildch.com,mindhack2ch.com,okutta.net,yabatanichannel.net,nanj-hero.com,matometre.net,nanj-short.net,majimanjisokuhou.com,okuribitoniki.com,www.news-us.jp,www.imashun-navi.com,www.calciomatome.net,www.tensyoku-shiawase.com,seesaa.net###footer
 !------------ ブロマガ http://sp.ch.nicovideo.jp/portal/blomaga/
 pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###smartBanner
 pokemon-matome.net,mudainodocument.com,kojikisokuhou.com,kotaro269.com,alfalfalfa.com,kanasoku.info,blomaga.jp,sp.ch.nicovideo.jp###appBanner
