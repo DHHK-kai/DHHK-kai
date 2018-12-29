@@ -16,7 +16,7 @@
 ! （DHHKフィルター）
 ! https://dl.dropboxusercontent.com/s/haj1mlu5qyyb8q3/DHHK%E3%83%BBAdguard%EF%BE%9C%EF%BD%AF%EF%BE%81%EF%BD%AE%EF%BD%B2%E3%82%B9%E3%83%AC%E7%94%A8%E4%B8%80%E7%BA%8F%E3%82%81%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF.txt
 !
-!■■■■■■■■■■■■■ 共通ルール
+!■■■■■■■■■■■■■ 共通ルール（複数のウェブサイトに影響の出るSNSボタンなど。不具合発生時の特定が困難になるためコメントアウト）
 !------------ LINE
 !||biz.line.naver.jp/line_business/img/btn/*.*$image
 !||timeline.line.me/social-plugin-widget/*$subdocument
