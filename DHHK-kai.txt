@@ -18,7 +18,6 @@
 !
 !■■■■■■■■■■■■■ 共通ルール（複数のウェブサイトに影響の出るSNSボタンなど。不具合発生時の特定が困難になるためコメントアウト）
 !------------ LINE
-!||biz.line.naver.jp/line_business/img/btn/*.*$image
 !||timeline.line.me/social-plugin-widget/*$subdocument
 !~cgi.search.biglobe.ne.jp,~search.goo.ne.jp,~websearch.excite.co.jp,~search.yahoo.co.jp,~www.bing.com,~www.google.co.jp,~www.google.com,~line.me$$a[href="line.me/R/ti/p/%40"]
 !------------ Facebook
