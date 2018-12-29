@@ -781,6 +781,13 @@ gigazine.net###latest
 gigazine.net##.navi-list-2col
 gigazine.net###G_EF
 gigazine.net###UFad
+gigazine.net$$footer
+gigazine.net###next-prev
+gigazine.net###sub
+gigazine.net##.article
+gigazine.net##.social-button
+gigazine.net##.followbeta
+gigazine.net$$div[class="rlcontents-s"]
 !------------ ガジェット通信 http://getnews.jp/
 getnews.jp##.top_sns
 getnews.jp###leftColumn
