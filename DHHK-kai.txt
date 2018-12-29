@@ -1,4 +1,4 @@
-! Title: DHHKフィルター改
+! Title: なんJ DHHK改フィルター
 ! Version: 2018-12-16
 ! Homepage: https://wikiwiki.jp/nanj-adguard/
 ! License: CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
