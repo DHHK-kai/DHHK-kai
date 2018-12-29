@@ -439,20 +439,6 @@ togetter.com##.comment_popular
 togetter.com$$div[class="pr_link_box"]
 togetter.com$$a[href="/redirect/appInstall"]
 !■■■■■■■■■■■■■
-!■■■■■■■■■■■■■ SNS（SNSウェブサイト閲覧時）
-!------------ Twitter https://mobile.twitter.com/
-mobile.twitter.com##._1363jyKz
-mobile.twitter.com##._7kIt4uMb
-mobile.twitter.com##._3cNu1G5p
-mobile.twitter.com##._2565dg3z
-!------------ Instagram https://www.instagram.com/
-www.instagram.com##._7shjj
-www.instagram.com##._28zbs
-!------------ imgur https://m.imgur.com/
-m.imgur.com##.App-topSidebar
-m.imgur.com##.FloatingOIA-container
-m.imgur.com##.AppBanner
-!■■■■■■■■■■■■■
 !■■■■■■■■■■■■■ 掲示板
 !------------ 爆サイ.com -日本最大級のﾛｰｶﾙｺﾐｭﾆﾃｨ掲示板 http://bakusai.com/
 bakusai.com###wordList
@@ -1449,6 +1435,13 @@ seesaawiki.jp###page-social-link-bottom
 ||textuploader.com/assets/img/patterns/bg*.png$image
 textuploader.com##.clearfix.toolbar > .pull-left
 textuploader.com##.scrollup
+!------------ imgur https://m.imgur.com/
+m.imgur.com##.App-topSidebar
+m.imgur.com##.FloatingOIA-container
+m.imgur.com##.AppBanner
+!------------ Instagram https://www.instagram.com/
+www.instagram.com##._7shjj
+www.instagram.com##._28zbs
 !------------ Pastebin.com https://pastebin.com/
 pastebin.com###paypal-overlay
 pastebin.com###footer_right
