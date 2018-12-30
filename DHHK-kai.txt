@@ -16,7 +16,7 @@
 ! （DHHKフィルター）
 ! https://dl.dropboxusercontent.com/s/haj1mlu5qyyb8q3/DHHK%E3%83%BBAdguard%EF%BE%9C%EF%BD%AF%EF%BE%81%EF%BD%AE%EF%BD%B2%E3%82%B9%E3%83%AC%E7%94%A8%E4%B8%80%E7%BA%8F%E3%82%81%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF.txt
 !
-!■■■■■■■■■■■■■ 共通ルール（複数のウェブサイトに影響の出るSNSボタンなど。不具合発生時の特定が困難になるためコメントアウト）
+! 【共通ルール】（複数のウェブサイトに影響の出るSNSボタンなど。不具合発生時の特定が困難になるためコメントアウト）
 !------------ LINE
 !||timeline.line.me/social-plugin-widget/*$subdocument
 !------------ Facebook
@@ -25,8 +25,8 @@
 !||b.hatena.ne.jp/images/entry-button/button-only*.*$image
 !||cdn-ak.b.st-hatena.com/images/users/gif/normal/00000.gif^
 !||hatena.ne.jp/images/add.gif^
-!■■■■■■■■■■■■■
-!■■■■■■■■■■■■■ livedoorブログ
+!
+! 【livedoorブログ】
 !------------ 共通 http://blog.livedoor.com/ http://blog.jp/
 livedoor.blog,matomelotte.com,inutomo11.com,npb-news.com,central-dragons.com,onjsummarynet.net,wasidukami.club,onjmix.net,toralucky.fun,toramoukoseiha.com,nandemo-uketori.com,kokofire.info,blog.esuteru.com,vipsister23.com,burusoku-vip.com,vsnp.net,matometanews.com,otanew.jp,squallchannel.com,anihatsu.com,world-fusigi.net,bipblog.com,uwakitaiken.com,kyousoku.net,inazumanews2.com,fesoku.net,netaatoz.jp,onecall2ch.com,matometemitatta.com,openworldnews.net,ka-soku.com,www.tomabechi.jp,himasoku.com,hosyusokuhou.jp,yurukuyaru.com,www.akb48matomemory.com,www.scienceplus2ch.com,military38.com,chaos2ch.com,labaq.com,gehasoku.com,www.otonarisoku.com,www.all-nationz.com,www.gamecast-blog.com,zapzapjp.com,jin115.com,hamusoku.com,karapaia.com,blog.jp,doorblog.jp,ldblog.jp,dreamlog.jp,publog.jp,livedoor.biz,diary.to,weblog.to,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,gger.jp,golog.jp,liblo.jp,myjournal.jp,mynikki.jp,xxxblog.jp,youblog.jp,2chblog.jp,teamblog.jp,corpblog.jp,officeblog.jp,storeblog.jp,cafeblog.jp,officialblog.jp,techblog.jp,blog.livedoor.jp##.linelive-ranking
 livedoor.blog,matomelotte.com,inutomo11.com,npb-news.com,central-dragons.com,onjsummarynet.net,wasidukami.club,onjmix.net,toralucky.fun,toramoukoseiha.com,nandemo-uketori.com,kokofire.info,blog.esuteru.com,vipsister23.com,burusoku-vip.com,vsnp.net,matometanews.com,otanew.jp,squallchannel.com,anihatsu.com,world-fusigi.net,bipblog.com,uwakitaiken.com,kyousoku.net,inazumanews2.com,fesoku.net,netaatoz.jp,onecall2ch.com,matometemitatta.com,openworldnews.net,ka-soku.com,www.tomabechi.jp,himasoku.com,hosyusokuhou.jp,yurukuyaru.com,www.akb48matomemory.com,www.scienceplus2ch.com,military38.com,chaos2ch.com,labaq.com,gehasoku.com,www.otonarisoku.com,www.all-nationz.com,www.gamecast-blog.com,zapzapjp.com,jin115.com,hamusoku.com,karapaia.com,blog.jp,doorblog.jp,ldblog.jp,dreamlog.jp,publog.jp,livedoor.biz,diary.to,weblog.to,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,gger.jp,golog.jp,liblo.jp,myjournal.jp,mynikki.jp,xxxblog.jp,youblog.jp,2chblog.jp,teamblog.jp,corpblog.jp,officeblog.jp,storeblog.jp,cafeblog.jp,officialblog.jp,techblog.jp,blog.livedoor.jp##.footer-addline-banner
@@ -220,8 +220,8 @@ blog.esuteru.com##.foot_link_area
 !------------ 妹はVIPPER http://vipsister23.com/
 vipsister23.com##blockquote
 vipsister23.com##.related-articles
-!■■■■■■■■■■■■■
-!■■■■■■■■■■■■■ WordPressブログ
+!
+! 【WordPressブログ】
 !------------ 1000mg http://1000mg.jp/
 1000mg.jp##.textwidget
 1000mg.jp##.tab_change
@@ -249,8 +249,8 @@ netgeek.biz##.share
 netgeek.biz##.rw-ui-mobile-wrapper
 netgeek.biz###___ytsubscribe_0
 netgeek.biz###related
-!■■■■■■■■■■■■■
-!■■■■■■■■■■■■■ その他のブログ
+!
+! 【その他のブログ】
 !------------ はてなブログ
 ||blog.hatena.ne.jp/*/*/subscribe/iframe$subdocument
 www.cild.work,www.financepensionrealestate.work,www.iruca21.com,bookmark.hatenastaff.com,diary.uedakeita.net,www.pojihiguma.com,www.yutorism.jp,www.netlorechase.net,www.politic.tokyo,www.blossoms-japan.com,www.kotsulog.com,www.watto.nagoya,www.from-estonia-with-love.net,blog.shibayan.jp,www.kailua020.com,www.amanatusauce.com,www.tsubasa-note.blog,hatebu.me,in.fablic.co.jp,yomu-kokkai.com,hatenanews.com,e-aidem.com,cardmics.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,blog.hatena.ne.jp###globalheader-container
@@ -403,8 +403,8 @@ anige-sokuhouvip.com,blog130.fc2.com,blog117.fc2.com,blog.fc2.com###rtrank_wrap
 anige-sokuhouvip.com,blog130.fc2.com,blog117.fc2.com,blog.fc2.com###sidemenu1
 anige-sokuhouvip.com,blog130.fc2.com,blog117.fc2.com,blog.fc2.com###sh_fc2blogheadbar
 anige-sokuhouvip.com,blog130.fc2.com,blog117.fc2.com,blog.fc2.com##.AdContainer
-!■■■■■■■■■■■■■
-!■■■■■■■■■■■■■ まとめ系その他
+!
+! 【まとめ系その他】
 !------------ NAVER まとめ https://matome.naver.jp/m/
 matome.naver.jp##section
 matome.naver.jp##aside
@@ -436,15 +436,15 @@ togetter.com##li:has(a[data-ga*="inbound_promo"])
 togetter.com##.comment_popular
 togetter.com$$div[class="pr_link_box"]
 togetter.com$$a[href="/redirect/appInstall"]
-!■■■■■■■■■■■■■
-!■■■■■■■■■■■■■ 掲示板
+!
+! 【掲示板】
 !------------ 爆サイ.com -日本最大級のﾛｰｶﾙｺﾐｭﾆﾃｨ掲示板 http://bakusai.com/
 bakusai.com###wordList
 bakusai.com##.newsTicker
 !------------ teacup https://www.teacup.com/
 ||teacup.com/cgi-bin/Count.cgi^
-!■■■■■■■■■■■■■
-!■■■■■■■■■■■■■ IT
+!
+! 【IT】
 !------------ Impress Watch http://watch.impress.co.jp/
 ||watch.impress.co.jp/img/watch/parts/icon/star.svg$image
 ||watch.impress.co.jp/img/watch/parts/icon/pr.svg$image
@@ -623,8 +623,8 @@ itpro.nikkeibp.co.jp###sideContent
 itpro.nikkeibp.co.jp###nhrWidget
 itpro.nikkeibp.co.jp###headerSNS
 itpro.nikkeibp.co.jp##.list_G
-!■■■■■■■■■■■■■
-!■■■■■■■■■■■■■ ゲーム
+!
+! 【ゲーム】
 !------------ もぐらゲームス http://www.moguragames.com/
 ||www.moguragames.com/wp-content/themes/twentyfourteen/images/pattern-light.svg$image
 ||www.moguragames.com/wp-content/plugins/lazy-load/images/1x1.trans.gif$image
@@ -725,8 +725,8 @@ n-styles.com###links-right-box
 n-styles.com##.entry-footer
 n-styles.com##div:nth-child(17)
 n-styles.com##center:contains(スポンサーリンク)
-!■■■■■■■■■■■■■
-!■■■■■■■■■■■■■ ガジェット・ライフハック系などブログマガジン
+!
+! 【ガジェット・ライフハック系などブログマガジン】
 !------------ ギズモード・ジャパン http://www.gizmodo.jp/
 ||www.gizmodo.jp/assets/sp/img/icon_home.png$image
 ||www.gizmodo.jp/assets/sp/img/icon_menu.png$image
@@ -898,8 +898,8 @@ yomitaku.com###page-top
 yomitaku.com##.widget_categories
 yomitaku.com###g_nav
 yomitaku.com###sidebar1!
-!■■■■■■■■■■■■■
-!■■■■■■■■■■■■■ 報道
+!
+! 【報道】
 !------------ 時事ドットコム：時事通信社が運営するニュースサイト http://www.jiji.com/
 www.jiji.com$$script[src="/smp/common/js/readmore.min.js"]
 www.jiji.com$$script[src="/news/common/js/jquery.cookie.js"]
@@ -1398,8 +1398,8 @@ news.livedoor.com$$div[class="ads-google"]
 news.livedoor.com$$div[class="header-ad"]
 news.livedoor.com$$div[id="article-outer-link"]
 news.livedoor.com$$div[class="article-keyword"]
-!■■■■■■■■■■■■■
-!■■■■■■■■■■■■■ その他
+!
+! 【その他】
 !------------ goo辞書 - 国語・英語・四字熟語・中国語のオンライン辞書 https://dictionary.goo.ne.jp/
 dictionary.goo.ne.jp###NR-sub
 !------------ 教えて!goo https://oshiete.goo.ne.jp/
@@ -1471,7 +1471,7 @@ www.cyberagent.co.jp###totop
 www.cyberagent.co.jp##.sc_category
 www.cyberagent.co.jp##.sc_icons
 www.cyberagent.co.jp##.back_issues
-!■■■■■■■■■■■■■
+!
 ! 【アフィカス】
 ! 1. 膜翅目トビコバチ科に属する寄生虫。
 ! 2. アフィリエイト（広告）収入を得るためにカス行為を働くなんJの寄生虫。
