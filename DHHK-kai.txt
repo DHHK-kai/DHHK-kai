@@ -23,7 +23,6 @@
 !##iframe[src*="//www.facebook.com/plugins/page.php"]
 !------------ はてなブックマーク・はてなスター
 !||b.hatena.ne.jp/images/entry-button/button-only*.*$image
-!||cdn-ak.b.st-hatena.com/images/users/gif/normal/00000.gif^
 !
 ! 【livedoor Blog】
 !------------ 共通 http://blog.livedoor.com/ http://blog.jp/
