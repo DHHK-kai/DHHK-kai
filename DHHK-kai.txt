@@ -21,8 +21,6 @@
 !||timeline.line.me/social-plugin-widget/*$subdocument
 !------------ Facebook
 !##iframe[src*="//www.facebook.com/plugins/page.php"]
-!------------ はてなブックマーク・はてなスター
-!||b.hatena.ne.jp/images/entry-button/button-only*.*$image
 !
 ! 【livedoor Blog】
 !------------ 共通 http://blog.livedoor.com/ http://blog.jp/
