@@ -19,10 +19,6 @@
 ! （なんJ改修フィルター）　https://raw.githubusercontent.com/nanj-adguard2/nanj-kaishuu-filter/master/nanj-kaishuu-filter.txt
 ! （DHHKフィルター）　https://dl.dropboxusercontent.com/s/haj1mlu5qyyb8q3/DHHK%E3%83%BBAdguard%EF%BE%9C%EF%BD%AF%EF%BE%81%EF%BD%AE%EF%BD%B2%E3%82%B9%E3%83%AC%E7%94%A8%E4%B8%80%E7%BA%8F%E3%82%81%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF.txt
 !
-! 【共通ルール】（複数のウェブサイトに影響の出るSNSボタンなど。不具合発生時の特定が困難になるためコメントアウト）
-!------------ Facebook
-!##iframe[src*="//www.facebook.com/plugins/page.php"]
-!
 ! ■livedoor Blog■
 ! 【共通】 [http://blog.livedoor.com/]
 blog.livedoor.jp,livedoor.biz,livedoor.blog,2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,xxxblog.jp,youblog.jp,diary.to,weblog.to,wasidukami.club,akb48matomemory.com,all-nationz.com,anihatsu.com,bipblog.com,burusoku-vip.com,central-dragons.com,chaos2ch.com,esuteru.com,gamecast-blog.com,gehasoku.com,hamusoku.com,himasoku.com,inazumanews2.com,inutomo11.com,jin115.com,ka-soku.com,karapaia.com,labaq.com,matomelotte.com,matometanews.com,matometemitatta.com,military38.com,nandemo-uketori.com,npb-news.com,onecall2ch.com,otonarisoku.com,scienceplus2ch.com,squallchannel.com,toramoukoseiha.com,uwakitaiken.com,vipsister23.com,yurukuyaru.com,zapzapjp.com,toralucky.fun,kokofire.info,hosyusokuhou.jp,netaatoz.jp,otanew.jp,tomabechi.jp,fesoku.net,kyousoku.net,onjmix.net,onjsummarynet.net,openworldnews.net,vsnp.net,world-fusigi.net##.linelive-ranking
