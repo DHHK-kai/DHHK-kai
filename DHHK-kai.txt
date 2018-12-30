@@ -159,6 +159,8 @@ blog.livedoor.jp$$section[id="menubar"][tag-content="//blog.livedoor.jp/corez18c
 blog.livedoor.jp$$div[class="amazlet-box"][tag-content="/itsoku-22/"]
 ! 【カイカイ反応通信】 [http://blog.livedoor.jp/kaikaihanno/]
 blog.livedoor.jp$$section[id="menubar"][tag-content="//blog.livedoor.jp/kaikaihanno/"]
+! 【なんじぇいスタジアム＠なんJまとめ】 [http://blog.livedoor.jp/nanjstu/]
+blog.livedoor.jp$$blockquote[wildcard="*1000*なんじぇいスタジアム*http*"]
 ! 【海外反応！　I LOVE JAPAN】 [http://blog.livedoor.jp/zzcj/]
 ||livedoor.sp.blogimg.jp/zzcj/imgs/4/3/43fae303.gif$image
 ! 【軍事系まとめブログ】 [http://gunji.blog.jp/]
