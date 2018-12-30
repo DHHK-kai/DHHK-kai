@@ -4,7 +4,7 @@
 ! License: CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
 !
 ! 【概要】
-! AdGuard for Androidを使用してアフィカスブログを中心とした主な日本語ウェブサイトからあらゆる不要要素を消すことを目的としたフィルターです。
+! AdGuard for Androidを使用してアフィカスブログを中心とする主な日本語ウェブサイトからあらゆる不要要素を消すことを目的としたフィルターです。
 !
 ! 【編集方針】
 ! ・280blockerで消えない要素を消します。
